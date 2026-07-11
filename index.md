@@ -5,6 +5,7 @@ permalink: /
 ---
 
 <style>
+.home-logo { display: block; width: 280px; max-width: 100%; height: auto; margin: 1.5rem 0 0.75rem; }
 .home-intro { max-width: 760px; margin: 1.5rem 0 2rem; font-size: 1.05rem; line-height: 1.7; }
 .home-intro p { margin: 0 0 1rem; }
 .module-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 1rem; margin: 1.5rem 0 2.5rem; }
@@ -19,8 +20,10 @@ permalink: /
 .quick-links a:hover { background: #f7e9c9; border-color: #F2A603; }
 </style>
 
+<img src="/assets/logo.png" alt="RIT360 Premiado" class="home-logo" />
+
 <div class="home-intro">
-  <p>O <strong>RIT360 Premiado</strong> é a ferramenta da <a href="https://rit.org.br" target="_blank" rel="noopener noreferrer">RIT — Rede de Inovação e Transformação</a> que ajuda Organizações da Sociedade Civil (OSCs) a criar, vender, divulgar, apurar e prestar contas de <strong>campanhas premiadas</strong> (sorteios e rifas eletrônicas) — tudo dentro do seu WordPress, integrado ao WooCommerce. É o plugin que transforma uma boa causa em uma campanha que vende bem e cumpre os requisitos legais.</p>
+  <p>O <strong>RIT360 Premiado</strong> é uma ferramenta construída pela <a href="https://v3rtech.com.br/" target="_blank" rel="noopener noreferrer">V3RTECH Tecnologia, Consultoria e Inovação</a> em parceria com a <a href="https://rit.org.br/" target="_blank" rel="noopener noreferrer">RIT — Rede de Inovação e Transformação</a> que ajuda Organizações da Sociedade Civil (OSCs) a criar, vender, divulgar, apurar e prestar contas de <strong>campanhas premiadas</strong> (sorteios e rifas eletrônicas) — tudo dentro do seu WordPress, integrado ao WooCommerce. É o plugin que transforma uma boa causa em uma campanha que vende bem e cumpre os requisitos legais.</p>
   <p><strong>Sorteios que impulsionam causas.</strong> Esta documentação não é só um manual de botões: além do passo a passo, ela ensina <em>como preparar campanhas que funcionam</em> — escolher um prêmio que vende, precificar os cartões, divulgar com transparência e manter tudo em ordem para dar segurança à organização e a quem participa.</p>
   <p>Se você está começando agora, vá para os <a href="/primeiros-passos/">Primeiros passos</a>. Se quer aumentar suas chances de sucesso antes de criar a campanha, comece por <a href="/boas-praticas/">Boas práticas e campanhas vencedoras</a>.</p>
 </div>

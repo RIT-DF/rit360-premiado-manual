@@ -19,7 +19,7 @@ Um recurso **opcional** para apoiar a continuidade do RIT360 Premiado, desenvolv
 ## Como funciona
 
 - Controlado por um **botão liga/desliga**. Desligado, nada aparece.
-- Quando ligado, calcula um **valor sugerido** (padrão: 5% da margem) e leva à **página de doação da RIT** (o link é configurável; não há dados bancários fixos no código).
+- Quando ligado, calcula um **valor sugerido** (padrão: 5% da margem) e mostra um **botão** que leva à **página oficial de doação da RIT** (`rit.org.br/doe`). O endereço é **fixo** — não é editável, evitando link quebrado; e não há dados bancários no plugin.
 - Você pode **registrar** doações realizadas (valor, data, comprovante opcional) e acompanhar o **efetivo vs. potencial**. Registros podem ser removidos; tudo é auditado.
 
 O passo a passo está em [Apoiar a RIT](/guias/apoiar-a-rit/).
