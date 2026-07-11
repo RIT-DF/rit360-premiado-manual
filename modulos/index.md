@@ -7,7 +7,7 @@ last_verified: 2026-07-05
 status: publicado
 ---
 
-# Módulos do Bússola Premiada
+# Módulos do RIT360 Premiado
 
 Esta seção é a referência de consulta: uma página por módulo do plugin, explicando **o que ele faz**, **por que importa** e **como usar** — com capturas de tela reais, exemplos e dicas. Se você procura o passo a passo de uma tarefa, veja antes os [Guias por tarefa](/guias/).
 

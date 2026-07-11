@@ -42,7 +42,7 @@ No método **interno**, você pode publicar um painel **"Como conferir o sorteio
 
 ![Painel de verificação do sorteio](/assets/screenshots/bp-33-verificacao.png)
 
-Como adicionar: veja [Blocos e Shortcodes](/modulos/blocos-shortcodes/) — o shortcode é `[bussola_premiada_verificacao id="ID"]`.
+Como adicionar: veja [Blocos e Shortcodes](/modulos/blocos-shortcodes/) — o shortcode é `[rit360_premiado_verificacao id="ID"]`.
 
 > ✅ **Boas práticas**
 >

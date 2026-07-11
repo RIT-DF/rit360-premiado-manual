@@ -47,8 +47,8 @@ A página é **mobile-first** — funciona bem no celular, que é por onde a mai
 Você tem três formas de disponibilizar o "Meus cartões" — escolha a que combina com o seu site:
 
 1. **Endereço pronto `/meus-cartoes`.** A página já existe automaticamente no endereço do seu site terminando em **`/meus-cartoes`** (ex.: `suaosc.org.br/meus-cartoes`). É para lá que o link dos e-mails aponta. Não precisa configurar nada.
-2. **Bloco Gutenberg.** No editor de qualquer página, clique em **adicionar bloco** ("+"), procure por **"Bússola"** e escolha **Meus cartões** na categoria Bússola Premiada. Útil para embutir o painel numa página do seu próprio layout (por exemplo, uma página "Participe" com menu e rodapé do site).
-3. **Shortcode.** Cole `[bussola_premiada_meus_cartoes]` em qualquer página ou post.
+2. **Bloco Gutenberg.** No editor de qualquer página, clique em **adicionar bloco** ("+"), procure por **"RIT360 Premiado"** e escolha **Meus cartões** na categoria RIT360 Premiado. Útil para embutir o painel numa página do seu próprio layout (por exemplo, uma página "Participe" com menu e rodapé do site).
+3. **Shortcode.** Cole `[rit360_premiado_meus_cartoes]` em qualquer página ou post.
 
 Diferente dos outros blocos da campanha, o "Meus cartões" **não** pede o ID de uma campanha: ele mostra as campanhas do próprio comprador, a partir do link pessoal.
 

@@ -17,7 +17,7 @@ Além da página pública pronta (o hotsite da campanha), você pode **montar a 
 
 ## Onde encontrar a referência
 
-No menu **Bússola Premiada**, abra **Blocos e Shortcodes**. Essa página lista cada componente com o nome do bloco, o shortcode e um exemplo pronto para copiar.
+No menu **RIT360 Premiado**, abra **Blocos e Shortcodes**. Essa página lista cada componente com o nome do bloco, o shortcode e um exemplo pronto para copiar.
 
 ![Página Blocos e Shortcodes no admin](/assets/screenshots/bp-25-blocos-referencia.png)
 
@@ -27,18 +27,18 @@ Cada um funciona como **bloco** e como **shortcode**:
 
 | Componente | O que mostra | Shortcode |
 |---|---|---|
-| **Seleção de cartões** | Grade para o participante escolher e comprar cartões | `[bussola_premiada_selecao id="ID"]` |
-| **Painel de transparência** | Indicadores públicos (vendidos, disponíveis, sorteio…) | `[bussola_premiada_painel id="ID"]` |
-| **Barra de progresso** | Barra compacta com o % de cartões vendidos | `[bussola_premiada_progresso id="ID"]` |
-| **Resultado do sorteio** | Cartão contemplado e ganhador, após a apuração | `[bussola_premiada_resultado id="ID"]` |
-| **Botão comprar** | Botão de destaque que leva à seleção de cartões | `[bussola_premiada_botao id="ID"]` |
-| **Compartilhamento** | Botões de WhatsApp, redes sociais e copiar link | `[bussola_premiada_compartilhar id="ID"]` |
-| **Regulamento** | Resumo do regulamento, com “ver completo” | `[bussola_premiada_regulamento id="ID"]` |
-| **Rifa completa (página)** | A página inteira da campanha em um bloco | `[bussola_premiada_rifa id="ID"]` |
-| **Termômetro de meta** *(novo, 1.9.0)* | Progresso rumo à meta de cartões e/ou de arrecadação | `[bussola_premiada_meta id="ID"]` |
-| **Verificação do sorteio** *(novo, 1.9.0)* | Prova pública de que o sorteio foi honesto (veja abaixo) | `[bussola_premiada_verificacao id="ID"]` |
-| **Vitrine de campanhas** *(novo, 1.9.0)* | Lista várias campanhas ativas em cards (não usa `id`) | `[bussola_premiada_vitrine limit="12" order="ending" status="ativas"]` |
-| **Meus cartões** *(novo, 1.11.0)* | Painel do comprador: cartões e resultado, sem login (não usa `id`) | `[bussola_premiada_meus_cartoes]` |
+| **Seleção de cartões** | Grade para o participante escolher e comprar cartões | `[rit360_premiado_selecao id="ID"]` |
+| **Painel de transparência** | Indicadores públicos (vendidos, disponíveis, sorteio…) | `[rit360_premiado_painel id="ID"]` |
+| **Barra de progresso** | Barra compacta com o % de cartões vendidos | `[rit360_premiado_progresso id="ID"]` |
+| **Resultado do sorteio** | Cartão contemplado e ganhador, após a apuração | `[rit360_premiado_resultado id="ID"]` |
+| **Botão comprar** | Botão de destaque que leva à seleção de cartões | `[rit360_premiado_botao id="ID"]` |
+| **Compartilhamento** | Botões de WhatsApp, redes sociais e copiar link | `[rit360_premiado_compartilhar id="ID"]` |
+| **Regulamento** | Resumo do regulamento, com “ver completo” | `[rit360_premiado_regulamento id="ID"]` |
+| **Rifa completa (página)** | A página inteira da campanha em um bloco | `[rit360_premiado_rifa id="ID"]` |
+| **Termômetro de meta** *(novo, 1.9.0)* | Progresso rumo à meta de cartões e/ou de arrecadação | `[rit360_premiado_meta id="ID"]` |
+| **Verificação do sorteio** *(novo, 1.9.0)* | Prova pública de que o sorteio foi honesto (veja abaixo) | `[rit360_premiado_verificacao id="ID"]` |
+| **Vitrine de campanhas** *(novo, 1.9.0)* | Lista várias campanhas ativas em cards (não usa `id`) | `[rit360_premiado_vitrine limit="12" order="ending" status="ativas"]` |
+| **Meus cartões** *(novo, 1.11.0)* | Painel do comprador: cartões e resultado, sem login (não usa `id`) | `[rit360_premiado_meus_cartoes]` |
 
 > Troque `ID` pelo número da campanha (você encontra o ID na lista de **Campanhas**).
 
@@ -68,13 +68,13 @@ O bloco/shortcode de **verificação** mostra, de forma pública, como conferir 
 
 ## Usando os blocos (Gutenberg)
 
-No editor de uma página ou post, clique em **adicionar bloco** (o “+”), procure por **“Bússola”** e escolha o componente na categoria **Bússola Premiada**. Com o bloco selecionado, abra o painel de configurações à direita e **escolha a campanha** no menu suspenso (ou informe o ID manualmente).
+No editor de uma página ou post, clique em **adicionar bloco** (o “+”), procure por **“RIT360 Premiado”** e escolha o componente na categoria **RIT360 Premiado**. Com o bloco selecionado, abra o painel de configurações à direita e **escolha a campanha** no menu suspenso (ou informe o ID manualmente).
 
-![Bloco da Bússola Premiada no editor do WordPress](/assets/screenshots/bp-26-blocos-editor.png)
+![Bloco do RIT360 Premiado no editor do WordPress](/assets/screenshots/bp-26-blocos-editor.png)
 
 > 💡 **Nota**
 >
-> No editor, o bloco aparece como um marcador (“Bússola Premiada · …”). A **aparência real** — a grade de cartões, o painel, a barra — aparece na **página publicada**, para quem visita o site.
+> No editor, o bloco aparece como um marcador (“RIT360 Premiado · …”). A **aparência real** — a grade de cartões, o painel, a barra — aparece na **página publicada**, para quem visita o site.
 
 ## Usando os shortcodes (Elementor e outros)
 

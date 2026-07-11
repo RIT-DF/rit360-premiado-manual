@@ -9,7 +9,7 @@ status: publicado
 
 # Licença (GPL)
 
-O **Bússola Premiada** é **software livre**, distribuído sob a **Licença Pública Geral GNU, versão 2 ou (a seu critério) qualquer versão posterior** — *GNU General Public License (GPL) v2 or later*. É a mesma licença do WordPress e da maioria dos plugins do ecossistema.
+O **RIT360 Premiado** é **software livre**, distribuído sob a **Licença Pública Geral GNU, versão 2 ou (a seu critério) qualquer versão posterior** — *GNU General Public License (GPL) v2 or later*. É a mesma licença do WordPress e da maioria dos plugins do ecossistema.
 
 ## O que isso significa
 
@@ -20,7 +20,7 @@ A GPL garante quatro liberdades sobre o software:
 - **Redistribuir** cópias.
 - **Melhorar** o programa e **compartilhar** as melhorias com a comunidade.
 
-A única contrapartida essencial da GPL é o **copyleft**: se você distribuir o Bússola Premiada (modificado ou não), deve fazê-lo **sob a mesma licença GPL**, mantendo os avisos de copyright e disponibilizando o código-fonte correspondente.
+A única contrapartida essencial da GPL é o **copyleft**: se você distribuir o RIT360 Premiado (modificado ou não), deve fazê-lo **sob a mesma licença GPL**, mantendo os avisos de copyright e disponibilizando o código-fonte correspondente.
 
 ## Sem garantia
 
@@ -38,7 +38,7 @@ O texto integral e oficial da GPL está disponível em:
 
 ## Créditos
 
-O Bússola Premiada é desenvolvido pela **[RIT — Rede de Inovação e Transformação](https://rit.org.br/){:target="_blank" rel="noopener"}** em parceria com a **[V3RTECH](https://v3rtech.com.br/){:target="_blank" rel="noopener"}**, como parte da família **Bússola** de ferramentas para o terceiro setor.
+O RIT360 Premiado é desenvolvido pela **[RIT — Rede de Inovação e Transformação](https://rit.org.br/){:target="_blank" rel="noopener"}** em parceria com a **[V3RTECH](https://v3rtech.com.br/){:target="_blank" rel="noopener"}**, como parte da família **RIT360** de ferramentas para o terceiro setor.
 
 O plugin utiliza bibliotecas de terceiros (como o WooCommerce e o Dompdf), cada uma sob sua própria licença de software livre.
 

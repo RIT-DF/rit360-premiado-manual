@@ -14,7 +14,7 @@ status: publicado
 
 # Montar os cartões
 
-Os **cartões** são as unidades que as pessoas compram — o equivalente aos "números da rifa". No Bússola Premiada eles podem ser **números** (1, 2, 3…) ou **nomes de uma lista temática** (animais, cidades, personagens). Este guia mostra como preparar a lista e gerar os cartões.
+Os **cartões** são as unidades que as pessoas compram — o equivalente aos "números da rifa". No RIT360 Premiado eles podem ser **números** (1, 2, 3…) ou **nomes de uma lista temática** (animais, cidades, personagens). Este guia mostra como preparar a lista e gerar os cartões.
 
 ## Dois tipos de cartão
 

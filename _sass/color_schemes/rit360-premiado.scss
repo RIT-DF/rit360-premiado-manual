@@ -1,0 +1,12 @@
+// Esquema de cores RIT360 Premiado — padrão da família RIT360.
+//   texto/links/títulos = Petróleo #0f4855 (AAA ~9:1) — cor de marca da família.
+//   Âmbar #f2a603 é o acento do produto, mas SÓ na logo/gráfico — falha contraste
+//   para texto (~1.9:1), então botões/links usam Petróleo (acessível).
+$link-color: #0f4855;          // Petróleo — link legível, cor de marca
+$btn-primary-color: #0f4855;   // Petróleo — Âmbar falha AA p/ texto; botão acessível
+$body-heading-color: #0f4855;  // Petróleo — títulos on-brand e legíveis
+$body-text-color: #1A1A1A;     // texto
+$nav-child-link-color: #6B6B6B; // texto secundário
+$sidebar-color: #F7F9FA;        // neutro frio (base RIT360)
+$border-color: #E5E7EB;         // hairline neutro
+$code-background-color: #F5F6F7;

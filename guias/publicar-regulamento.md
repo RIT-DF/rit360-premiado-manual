@@ -14,7 +14,7 @@ status: publicado
 
 # Publicar o regulamento
 
-O regulamento é **obrigatório**: nenhuma campanha entra no ar sem um regulamento publicado. A boa notícia é que o Bússola Premiada monta a maior parte dele para você — a partir dos dados da organização, dos dados da campanha e de uma biblioteca de cláusulas prontas.
+O regulamento é **obrigatório**: nenhuma campanha entra no ar sem um regulamento publicado. A boa notícia é que o RIT360 Premiado monta a maior parte dele para você — a partir dos dados da organização, dos dados da campanha e de uma biblioteca de cláusulas prontas.
 
 ## Onde fica
 

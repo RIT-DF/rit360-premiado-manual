@@ -70,7 +70,7 @@ A página reúne, em uma rolagem: o prêmio com as fotos, a história da causa, 
 
 > 💡 **Dica**
 >
-> Quer inserir a seleção de cartões ou o regulamento em outra página do site (uma landing page, por exemplo)? Use os **shortcodes** do plugin, como `[bussola_premiada_rifa id="123"]`. Veja [Módulo Página pública](/modulos/pagina-publica/).
+> Quer inserir a seleção de cartões ou o regulamento em outra página do site (uma landing page, por exemplo)? Use os **shortcodes** do plugin, como `[rit360_premiado_rifa id="123"]`. Veja [Módulo Página pública](/modulos/pagina-publica/).
 
 > ⚠️ **Atenção — permalinks**
 >

@@ -42,5 +42,5 @@ O painel é **mobile-first** — abre bem no celular para você acompanhar de qu
 ## Dicas
 
 - O painel só aparece depois que a campanha existe. Numa **campanha em rascunho** (ainda sem vendas), ele exibe um aviso para publicar e começar a vender.
-- Este painel é focado em **uma** campanha. Para comparar várias campanhas e ver o resultado consolidado da organização, use o **Painel geral** (a home do Bússola Premiada).
+- Este painel é focado em **uma** campanha. Para comparar várias campanhas e ver o resultado consolidado da organização, use o **Painel geral** (a home do RIT360 Premiado).
 - Os números são só de leitura. Para exportar relatórios detalhados, use a aba **Prestação de contas**.

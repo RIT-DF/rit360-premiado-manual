@@ -9,9 +9,9 @@ status: publicado
 
 # Aviso legal
 
-> ⚠️ **Leia com atenção antes de usar o Bússola Premiada**
+> ⚠️ **Leia com atenção antes de usar o RIT360 Premiado**
 
-O **Bússola Premiada** é uma **ferramenta de apoio** à criação, gestão, divulgação, apuração e prestação de contas de campanhas premiadas (sorteios e rifas eletrônicas). Em resumo:
+O **RIT360 Premiado** é uma **ferramenta de apoio** à criação, gestão, divulgação, apuração e prestação de contas de campanhas premiadas (sorteios e rifas eletrônicas). Em resumo:
 
 - **Não garante** a regularidade jurídica da campanha, **não substitui** o aconselhamento de um advogado e **não isenta** a organização de suas responsabilidades legais.
 - **Não protocola** automaticamente qualquer autorização junto ao Ministério da Fazenda (SPA/SCPC) ou a qualquer órgão. Se a sua campanha exige autorização prévia, é a organização que deve providenciá-la.
@@ -24,4 +24,4 @@ A **responsabilidade** pela regularidade da campanha, pela veracidade das inform
 
 ## Recomendação
 
-Use o Bússola Premiada como aliado da organização e da transparência da sua campanha — e busque orientação jurídica para validar as decisões que envolvem a regularidade do sorteio e a responsabilidade legal. Veja também [Requisitos legais de um sorteio](/boas-praticas/requisitos-legais/).
+Use o RIT360 Premiado como aliado da organização e da transparência da sua campanha — e busque orientação jurídica para validar as decisões que envolvem a regularidade do sorteio e a responsabilidade legal. Veja também [Requisitos legais de um sorteio](/boas-praticas/requisitos-legais/).

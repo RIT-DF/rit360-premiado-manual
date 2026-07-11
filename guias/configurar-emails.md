@@ -14,7 +14,7 @@ status: publicado
 
 # Configurar os e-mails
 
-O Bússola Premiada envia e-mails automáticos que dão segurança ao comprador e mantêm você informado. Este guia mostra como revisar os textos, o remetente e acompanhar os envios.
+O RIT360 Premiado envia e-mails automáticos que dão segurança ao comprador e mantêm você informado. Este guia mostra como revisar os textos, o remetente e acompanhar os envios.
 
 ## Onde fica
 

@@ -14,7 +14,7 @@ status: publicado
 
 # Apoiar a RIT
 
-O Bússola Premiada é desenvolvido pela **RIT — Rede de Inovação e Transformação**. Se a ferramenta está ajudando sua organização a arrecadar mais, você pode, **voluntariamente**, destinar uma parte da margem à continuidade do projeto. É totalmente **opcional**.
+O RIT360 Premiado é desenvolvido pela **RIT — Rede de Inovação e Transformação**. Se a ferramenta está ajudando sua organização a arrecadar mais, você pode, **voluntariamente**, destinar uma parte da margem à continuidade do projeto. É totalmente **opcional**.
 
 ## Onde fica
 
@@ -31,8 +31,8 @@ Abra **Configurações → Doação à RIT** (a doação também aparece como um
 
 > 💡 **Nota**
 >
-> A doação é uma sugestão de apoio, não uma taxa. O Bússola Premiada é software livre (licença GPL) e continua funcionando integralmente independentemente de qualquer doação. Veja a [Licença](/legal/licenca/).
+> A doação é uma sugestão de apoio, não uma taxa. O RIT360 Premiado é software livre (licença GPL) e continua funcionando integralmente independentemente de qualquer doação. Veja a [Licença](/legal/licenca/).
 
 > ✅ **Por que apoiar**
 >
-> Cada apoio ajuda a manter o plugin gratuito, atualizado e seguro para todas as OSCs da família Bússola. Se a sua campanha foi bem e sobrou margem, considerar um percentual para a RIT é retribuir para que outras organizações também se beneficiem.
+> Cada apoio ajuda a manter o plugin gratuito, atualizado e seguro para todas as OSCs da família RIT360. Se a sua campanha foi bem e sobrou margem, considerar um percentual para a RIT é retribuir para que outras organizações também se beneficiem.

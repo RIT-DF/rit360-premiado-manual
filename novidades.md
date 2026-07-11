@@ -9,7 +9,7 @@ status: publicado
 
 # Novidades
 
-O que há de novo no Bússola Premiada, em linguagem simples. Cada item indica a **versão** do plugin em que a novidade chegou. Você vê a versão instalada no topo do painel, ao lado da logo (ex.: *Bússola Premiada · v1.2.1*).
+O que há de novo no RIT360 Premiado, em linguagem simples. Cada item indica a **versão** do plugin em que a novidade chegou. Você vê a versão instalada no topo do painel, ao lado da logo (ex.: *RIT360 Premiado · v1.2.1*).
 
 > Esta é uma versão amigável do histórico técnico. O registro completo para desenvolvedores fica no `CHANGELOG.md` do projeto.
 
@@ -99,7 +99,7 @@ Veja como usar em [Personalizar a página pública](/guias/personalizar-pagina-p
 
 ## Versão 1.5.0 — Blocos e shortcodes para montar sua página
 
-- **Monte a página da campanha no seu construtor.** Agora você pode compor a página da campanha no editor de blocos do WordPress (Gutenberg) ou em construtores como o Elementor, usando **8 componentes** prontos: seleção de cartões, painel de transparência, barra de progresso, resultado do sorteio, botão comprar, compartilhamento, regulamento e a rifa completa. Cada um funciona como **bloco** (categoria “Bússola Premiada”) e como **shortcode**. Veja [Montar a página no construtor](/guias/montar-pagina-construtor/) e [Blocos e Shortcodes](/modulos/blocos-shortcodes/).
+- **Monte a página da campanha no seu construtor.** Agora você pode compor a página da campanha no editor de blocos do WordPress (Gutenberg) ou em construtores como o Elementor, usando **8 componentes** prontos: seleção de cartões, painel de transparência, barra de progresso, resultado do sorteio, botão comprar, compartilhamento, regulamento e a rifa completa. Cada um funciona como **bloco** (categoria “RIT360 Premiado”) e como **shortcode**. Veja [Montar a página no construtor](/guias/montar-pagina-construtor/) e [Blocos e Shortcodes](/modulos/blocos-shortcodes/).
 - **Nova página de referência.** No menu do plugin, a página **Blocos e Shortcodes** lista todos os componentes com exemplos prontos para copiar.
 
 ## Versão 1.4.1 — Correção na tela de Auditoria
@@ -135,7 +135,7 @@ Veja como usar em [Personalizar a página pública](/guias/personalizar-pagina-p
 
 ## Versão 1.0.0 — Primeira versão completa
 
-A primeira versão formal do Bússola Premiada, reunindo todo o ciclo de uma campanha premiada:
+A primeira versão formal do RIT360 Premiado, reunindo todo o ciclo de uma campanha premiada:
 
 - **Configurações da organização** como fonte única de dados institucionais.
 - **Campanhas** de ponta a ponta, com produto oculto no WooCommerce e formulário em etapas.

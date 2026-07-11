@@ -19,7 +19,7 @@ A **Trilha de auditoria** registra as ações sensíveis realizadas no plugin �
 
 ## Onde fica
 
-No menu **Bússola Premiada**, abra **Auditoria**. O acesso é controlado pela permissão `audit.view` — o papel **Auditor** enxerga a trilha sem poder alterar nada.
+No menu **RIT360 Premiado**, abra **Auditoria**. O acesso é controlado pela permissão `audit.view` — o papel **Auditor** enxerga a trilha sem poder alterar nada.
 
 ## O que é registrado
 

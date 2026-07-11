@@ -9,7 +9,7 @@ status: publicado
 
 # Como divulgar e vender mais
 
-Uma campanha excelente que ninguém vê não vende. Boa parte do resultado vem da **divulgação** e da **confiança** que você transmite. O Bússola Premiada te dá as ferramentas — página bonita, transparência, compartilhamento — mas o ritmo da comunicação é com você.
+Uma campanha excelente que ninguém vê não vende. Boa parte do resultado vem da **divulgação** e da **confiança** que você transmite. O RIT360 Premiado te dá as ferramentas — página bonita, transparência, compartilhamento — mas o ritmo da comunicação é com você.
 
 ## Transparência gera confiança (e vendas)
 
@@ -39,7 +39,7 @@ Não basta divulgar uma vez. Planeje uma sequência:
 4. **Véspera do sorteio** — última chamada + como acompanhar o resultado.
 5. **Pós-sorteio** — anuncie o ganhador, agradeça a todos, mostre o prêmio sendo entregue. Isso constrói a confiança para a **próxima** campanha.
 
-## Deixe o Bússola Premiada trabalhar por você
+## Deixe o RIT360 Premiado trabalhar por você
 
 - Os **e-mails automáticos** confirmam a compra e dão segurança ao comprador (ele recebe os cartões por e-mail).
 - O **lembrete de sorteio** avisa os participantes que a data se aproxima.

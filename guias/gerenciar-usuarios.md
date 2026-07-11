@@ -12,13 +12,13 @@ status: publicado
 
 # Gerenciar usuários e papéis
 
-Cada pessoa que trabalha no Bússola Premiada recebe um ou mais **papéis**, que definem o que ela pode ver e fazer. É pela aba **Usuários** que você atribui esses papéis — e é o que libera o acesso de cada membro da equipe ao painel com a permissão certa, nem mais, nem menos.
+Cada pessoa que trabalha no RIT360 Premiado recebe um ou mais **papéis**, que definem o que ela pode ver e fazer. É pela aba **Usuários** que você atribui esses papéis — e é o que libera o acesso de cada membro da equipe ao painel com a permissão certa, nem mais, nem menos.
 
 > Só o **Administrador da organização** (e o administrador do site) enxerga esta aba. Toda mudança de papel fica registrada na [Trilha de auditoria](/modulos/auditoria/).
 
 ## Antes de começar
 
-A pessoa precisa **já ser um usuário do WordPress** do site. Se ela ainda não tem acesso, crie o usuário primeiro em **Usuários** do WordPress (menu do site, fora do plugin) — o Bússola Premiada não cria usuários, apenas atribui papéis a quem já existe.
+A pessoa precisa **já ser um usuário do WordPress** do site. Se ela ainda não tem acesso, crie o usuário primeiro em **Usuários** do WordPress (menu do site, fora do plugin) — o RIT360 Premiado não cria usuários, apenas atribui papéis a quem já existe.
 
 ## Passo a passo
 

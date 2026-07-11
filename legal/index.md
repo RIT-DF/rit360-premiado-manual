@@ -9,7 +9,7 @@ status: publicado
 
 # Jurídico
 
-Os documentos legais do Bússola Premiada. Leia-os antes de usar a ferramenta.
+Os documentos legais do RIT360 Premiado. Leia-os antes de usar a ferramenta.
 
 - [Aviso legal](/legal/aviso/) — o resumo essencial: o que a ferramenta faz e o que **não** faz.
 - [Política de Privacidade](/legal/privacidade/) — como os dados pessoais são tratados.
@@ -18,4 +18,4 @@ Os documentos legais do Bússola Premiada. Leia-os antes de usar a ferramenta.
 
 > ⚠️ **Importante**
 >
-> As políticas de privacidade e os termos que valem para os **participantes** das suas campanhas são os que a **sua organização** publica no seu próprio site. Os documentos desta seção tratam da **ferramenta** Bússola Premiada e da relação entre a sua organização e a RIT/V3RTECH. Nada aqui é aconselhamento jurídico.
+> As políticas de privacidade e os termos que valem para os **participantes** das suas campanhas são os que a **sua organização** publica no seu próprio site. Os documentos desta seção tratam da **ferramenta** RIT360 Premiado e da relação entre a sua organização e a RIT/V3RTECH. Nada aqui é aconselhamento jurídico.

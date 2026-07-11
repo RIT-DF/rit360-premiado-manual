@@ -14,7 +14,7 @@ status: publicado
 
 Este guia mostra o caminho completo, do zero à sua primeira campanha no ar, em uma sequência que faz sentido. Se preferir ir direto a uma tarefa específica, use os [Guias por tarefa](/guias/).
 
-## O que o Bússola Premiada faz
+## O que o RIT360 Premiado faz
 
 Ele cobre todo o ciclo de uma campanha premiada:
 
@@ -36,14 +36,14 @@ Ele cobre todo o ciclo de uma campanha premiada:
 Você precisa de:
 
 - Um site **WordPress** com o **WooCommerce ativo** (versão 8.0 ou superior). Sem o WooCommerce, o plugin se desativa sozinho e avisa.
-- O plugin **Bússola Premiada** instalado e ativado. A instalação inicial normalmente é feita pela RIT/V3RTECH no momento da implantação.
+- O plugin **RIT360 Premiado** instalado e ativado. A instalação inicial normalmente é feita pela RIT/V3RTECH no momento da implantação.
 - Um **meio de pagamento** configurado no WooCommerce (Pix, cartão, boleto — o que sua organização já usa).
 
 ## Passo 1 — Abra o painel
 
-No menu lateral do WordPress, clique em **Bússola Premiada**. Você chega ao **Painel**, o cockpit da ferramenta: um resumo das campanhas, da arrecadação e dos próximos sorteios.
+No menu lateral do WordPress, clique em **RIT360 Premiado**. Você chega ao **Painel**, o cockpit da ferramenta: um resumo das campanhas, da arrecadação e dos próximos sorteios.
 
-![Painel do Bússola Premiada](/assets/screenshots/bp-01-dashboard.png)
+![Painel do RIT360 Premiado](/assets/screenshots/bp-01-dashboard.png)
 
 No topo, ao lado da logo, aparece o nome da seção em que você está e a versão do plugin. O botão **📖 Manual / Guia** leva sempre a esta documentação.
 

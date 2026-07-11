@@ -10,7 +10,7 @@ status: publicado
 
 # Requisitos legais de um sorteio
 
-Rifas e sorteios com fins de arrecadação são **regulados por lei** no Brasil. Cumprir os requisitos protege a organização, os organizadores e os participantes. O Bússola Premiada foi desenhado para **apoiar** essa conformidade — mas ele não substitui a orientação de um advogado nem garante a regularidade da sua campanha.
+Rifas e sorteios com fins de arrecadação são **regulados por lei** no Brasil. Cumprir os requisitos protege a organização, os organizadores e os participantes. O RIT360 Premiado foi desenhado para **apoiar** essa conformidade — mas ele não substitui a orientação de um advogado nem garante a regularidade da sua campanha.
 
 > ⚠️ **Importante — leia com atenção**
 >
@@ -27,11 +27,11 @@ Sorteios e distribuições gratuitas de prêmios no Brasil são tratados princip
 
 > ⚠️ **Atenção**
 >
-> O Bússola Premiada **não protocola** automaticamente qualquer autorização junto ao Ministério da Fazenda. Se a sua campanha exige autorização prévia, é a organização que deve providenciá-la pelos canais oficiais.
+> O RIT360 Premiado **não protocola** automaticamente qualquer autorização junto ao Ministério da Fazenda. Se a sua campanha exige autorização prévia, é a organização que deve providenciá-la pelos canais oficiais.
 
 ## Como o plugin ajuda você a ficar em ordem
 
-O Bússola Premiada não te dispensa das obrigações, mas facilita muito cumpri-las:
+O RIT360 Premiado não te dispensa das obrigações, mas facilita muito cumpri-las:
 
 - **Regulamento obrigatório e semi-automático.** Nenhuma campanha entra no ar sem regulamento publicado. O plugin monta o texto a partir dos seus dados e de uma biblioteca de cláusulas padrão, e **versiona** cada publicação — você sempre sabe qual regra valia em cada momento. Veja [Publicar o regulamento](/guias/publicar-regulamento/).
 - **Apuração auditável.** Você pode sortear pela **Loteria Federal** (registrando o concurso), por um **método interno reproduzível** (com lacre e semente, que qualquer auditor pode conferir) ou de forma **manual** com justificativa e anexos. Veja [Realizar o sorteio](/guias/realizar-sorteio/).
@@ -54,4 +54,4 @@ O Bússola Premiada não te dispensa das obrigações, mas facilita muito cumpri
 
 ## Postura da RIT
 
-O Bússola Premiada usa **linguagem e estética do terceiro setor**, sem qualquer alusão a jogo de azar, cassino ou apostas. O objetivo é apoiar causas com **seriedade, transparência e governança** — e ajudar sua organização a fazer o certo, do jeito certo.
+O RIT360 Premiado usa **linguagem e estética do terceiro setor**, sem qualquer alusão a jogo de azar, cassino ou apostas. O objetivo é apoiar causas com **seriedade, transparência e governança** — e ajudar sua organização a fazer o certo, do jeito certo.

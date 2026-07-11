@@ -1,5 +1,5 @@
-title: Bússola Premiada
-description: "Manual do usuário do Bússola Premiada — sorteios e rifas eletrônicas que impulsionam causas, para Organizações da Sociedade Civil. Pela RIT."
+title: RIT360 Premiado
+description: "Manual do usuário do RIT360 Premiado — sorteios e rifas eletrônicas que impulsionam causas, para Organizações da Sociedade Civil. Pela RIT."
 lang: pt-BR
 url: https://docs.premiado.rit360.org.br
 permalink: pretty
@@ -15,8 +15,9 @@ defaults:
       layout: default
 
 # Tema / cor
-color_scheme: premiada
+color_scheme: rit360-premiado
 logo: "/assets/logo.png"
+image: "/assets/og.png"
 
 # Busca
 search_enabled: true
@@ -51,14 +52,14 @@ callouts:
 
 # Links auxiliares (canto superior direito)
 aux_links:
-  "Bússola Premiada":
-    - "https://rit.org.br/solucoes/bussola-premiada/"
+  "RIT360 Premiado":
+    - "https://rit.org.br/solucoes/rit360-premiado/"
   "Acessar a RIT":
     - "https://rit.org.br"
 aux_links_new_tab: true
 
 # Rodapé
-footer_content: '© 2026 <a href="https://rit.org.br" target="_blank" rel="noopener">RIT — Rede de Inovação e Transformação</a> · <a href="https://v3rtech.com.br/" target="_blank" rel="noopener">V3RTECH</a>. O Bússola Premiada apoia a organização, a divulgação e a prestação de contas da sua campanha, mas não substitui aconselhamento jurídico nem garante a regularidade do sorteio. · <a href="/legal/aviso/">Aviso legal</a>'
+footer_content: '© 2026 <a href="https://rit.org.br" target="_blank" rel="noopener">RIT — Rede de Inovação e Transformação</a> · <a href="https://v3rtech.com.br/" target="_blank" rel="noopener">V3RTECH</a>. O RIT360 Premiado apoia a organização, a divulgação e a prestação de contas da sua campanha, mas não substitui aconselhamento jurídico nem garante a regularidade do sorteio. · <a href="/legal/aviso/">Aviso legal</a>'
 last_edit_timestamp: false
 back_to_top: true
 back_to_top_text: "Voltar ao topo"

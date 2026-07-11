@@ -20,14 +20,14 @@ permalink: /
 </style>
 
 <div class="home-intro">
-  <p>O <strong>Bússola Premiada</strong> é a ferramenta da <a href="https://rit.org.br" target="_blank" rel="noopener noreferrer">RIT — Rede de Inovação e Transformação</a> que ajuda Organizações da Sociedade Civil (OSCs) a criar, vender, divulgar, apurar e prestar contas de <strong>campanhas premiadas</strong> (sorteios e rifas eletrônicas) — tudo dentro do seu WordPress, integrado ao WooCommerce. É o plugin que transforma uma boa causa em uma campanha que vende bem e cumpre os requisitos legais.</p>
+  <p>O <strong>RIT360 Premiado</strong> é a ferramenta da <a href="https://rit.org.br" target="_blank" rel="noopener noreferrer">RIT — Rede de Inovação e Transformação</a> que ajuda Organizações da Sociedade Civil (OSCs) a criar, vender, divulgar, apurar e prestar contas de <strong>campanhas premiadas</strong> (sorteios e rifas eletrônicas) — tudo dentro do seu WordPress, integrado ao WooCommerce. É o plugin que transforma uma boa causa em uma campanha que vende bem e cumpre os requisitos legais.</p>
   <p><strong>Sorteios que impulsionam causas.</strong> Esta documentação não é só um manual de botões: além do passo a passo, ela ensina <em>como preparar campanhas que funcionam</em> — escolher um prêmio que vende, precificar os cartões, divulgar com transparência e manter tudo em ordem para dar segurança à organização e a quem participa.</p>
   <p>Se você está começando agora, vá para os <a href="/primeiros-passos/">Primeiros passos</a>. Se quer aumentar suas chances de sucesso antes de criar a campanha, comece por <a href="/boas-praticas/">Boas práticas e campanhas vencedoras</a>.</p>
 </div>
 
 > ⚠️ **Atenção — esta ferramenta apoia, mas não garante a regularidade jurídica**
 >
-> O Bússola Premiada organiza, documenta e dá transparência à sua campanha. Ele **não** substitui a análise de um advogado, **não** protocola automaticamente a autorização junto ao Ministério da Fazenda e **não** é um gateway de pagamento (o checkout é do WooCommerce). A responsabilidade pela regularidade do sorteio é da organização promotora. Leia o <a href="/legal/aviso/">Aviso legal</a> antes de usar.
+> O RIT360 Premiado organiza, documenta e dá transparência à sua campanha. Ele **não** substitui a análise de um advogado, **não** protocola automaticamente a autorização junto ao Ministério da Fazenda e **não** é um gateway de pagamento (o checkout é do WooCommerce). A responsabilidade pela regularidade do sorteio é da organização promotora. Leia o <a href="/legal/aviso/">Aviso legal</a> antes de usar.
 
 <div class="section-title">Comece por aqui</div>
 

@@ -20,7 +20,7 @@ Com a organização configurada e (opcionalmente) os cartões planejados, é hor
 
 ## Onde fica
 
-No menu **Bússola Premiada**, abra **Campanhas** e clique em **Nova campanha**.
+No menu **RIT360 Premiado**, abra **Campanhas** e clique em **Nova campanha**.
 
 ![Lista de campanhas](/assets/screenshots/bp-02-campanhas-lista.png)
 

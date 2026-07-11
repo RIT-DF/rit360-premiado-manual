@@ -7,13 +7,13 @@ last_verified: 2026-07-05
 status: publicado
 ---
 
-# Termos de Uso do Bússola Premiada
+# Termos de Uso do RIT360 Premiado
 
-> ⚠️ **Ao instalar e usar o Bússola Premiada, a organização declara que leu, entendeu e concorda com estes Termos de Uso.**
+> ⚠️ **Ao instalar e usar o RIT360 Premiado, a organização declara que leu, entendeu e concorda com estes Termos de Uso.**
 
 ## 1. Objeto
 
-O **Bússola Premiada** é uma **ferramenta de apoio** à criação, venda, divulgação, apuração e prestação de contas de campanhas premiadas (sorteios e rifas eletrônicas), oferecida pela **[RIT — Rede de Inovação e Transformação](https://rit.org.br/){:target="_blank" rel="noopener"}** em parceria com a **[V3RTECH](https://v3rtech.com.br/){:target="_blank" rel="noopener"}**, integrada ao WordPress e ao WooCommerce.
+O **RIT360 Premiado** é uma **ferramenta de apoio** à criação, venda, divulgação, apuração e prestação de contas de campanhas premiadas (sorteios e rifas eletrônicas), oferecida pela **[RIT — Rede de Inovação e Transformação](https://rit.org.br/){:target="_blank" rel="noopener"}** em parceria com a **[V3RTECH](https://v3rtech.com.br/){:target="_blank" rel="noopener"}**, integrada ao WordPress e ao WooCommerce.
 
 ## 2. Aceite e adesão
 
@@ -21,7 +21,7 @@ O uso da ferramenta — instalação, configuração e operação no site da org
 
 ## 3. Natureza da ferramenta (o que ela NÃO faz)
 
-O Bússola Premiada é instrumento de apoio e **NÃO**:
+O RIT360 Premiado é instrumento de apoio e **NÃO**:
 
 - **garante** a regularidade jurídica da campanha;
 - **substitui** a análise e o aconselhamento de um advogado ou profissional jurídico qualificado;
@@ -60,7 +60,7 @@ O tratamento de dados pessoais pela ferramenta é descrito na **[Política de Pr
 
 ## 8. Licença de software
 
-O Bússola Premiada é distribuído como **software livre**, sob a **Licença Pública Geral GNU (GPL)**. As condições de cópia, modificação e redistribuição do código são as da GPL — veja a página **[Licença (GPL)](/legal/licenca/)**. Em caso de conflito entre estes Termos e a GPL quanto às liberdades sobre o **código**, prevalece a GPL.
+O RIT360 Premiado é distribuído como **software livre**, sob a **Licença Pública Geral GNU (GPL)**. As condições de cópia, modificação e redistribuição do código são as da GPL — veja a página **[Licença (GPL)](/legal/licenca/)**. Em caso de conflito entre estes Termos e a GPL quanto às liberdades sobre o **código**, prevalece a GPL.
 
 ## 9. Atualizações destes Termos
 

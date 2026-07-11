@@ -18,7 +18,7 @@ Com a campanha no ar, o **Painel** é onde você acompanha tudo: quanto entrou, 
 
 ## O Painel
 
-Abra **Bússola Premiada → Painel**. Ele traz uma visão consolidada de todas as campanhas.
+Abra **RIT360 Premiado → Painel**. Ele traz uma visão consolidada de todas as campanhas.
 
 ![Painel com indicadores](/assets/screenshots/bp-01-dashboard.png)
 

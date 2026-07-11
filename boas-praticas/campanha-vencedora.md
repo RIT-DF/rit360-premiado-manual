@@ -41,7 +41,7 @@ Quatro números conversam entre si:
 
 ## Desconto por quantidade
 
-O Bússola Premiada permite configurar **descontos por quantidade** (ex.: "leve 5, pague 4"). Isso aumenta o ticket médio e premia quem compra mais.
+O RIT360 Premiado permite configurar **descontos por quantidade** (ex.: "leve 5, pague 4"). Isso aumenta o ticket médio e premia quem compra mais.
 
 > 💡 **Exemplo**
 >

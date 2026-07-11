@@ -10,13 +10,13 @@ status: publicado
 
 ## Sobre a ferramenta
 
-### O que é o Bússola Premiada?
+### O que é o RIT360 Premiado?
 Um plugin para WordPress, integrado ao WooCommerce, que permite a Organizações da Sociedade Civil criar, vender, divulgar, apurar e prestar contas de campanhas premiadas (sorteios e rifas eletrônicas) — com transparência e governança.
 
 ### Preciso de quê para usar?
 Um WordPress com **WooCommerce ativo** (8.0+), o plugin instalado e um meio de pagamento configurado no WooCommerce (Pix, cartão, boleto). Veja os [Primeiros passos](/primeiros-passos/).
 
-### O Bússola Premiada processa o pagamento?
+### O RIT360 Premiado processa o pagamento?
 Não. O pagamento é feito pelo **checkout do WooCommerce**, com o meio que sua organização já usa. O plugin cuida dos cartões, do sorteio e da prestação de contas.
 
 ### Quanto custa?
@@ -65,7 +65,7 @@ Sim: `/campanha/nome-da-campanha`, um hotsite mobile-first. Veja [Página públi
 Vá em **Configurações → Links permanentes** do WordPress e clique em **Salvar** (sem mudar nada) para regenerar as regras.
 
 ### Posso colocar a rifa dentro de outra página do site?
-Sim, com **shortcodes** como `[bussola_premiada_rifa id="123"]`. Veja [Página pública](/modulos/pagina-publica/).
+Sim, com **shortcodes** como `[rit360_premiado_rifa id="123"]`. Veja [Página pública](/modulos/pagina-publica/).
 
 ## E-mails
 

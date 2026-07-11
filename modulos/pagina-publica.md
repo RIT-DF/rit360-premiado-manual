@@ -36,10 +36,10 @@ Na aba **Página pública** da campanha você escolhe o **template visual** (Sof
 
 Quer usar partes da campanha em outra página do site? Há shortcodes prontos, por exemplo:
 
-- `[bussola_premiada_rifa id="123"]` — a campanha completa.
-- `[bussola_premiada_comprar id="123"]` — a seleção de cartões.
-- `[bussola_premiada_regulamento id="123"]` — o regulamento.
-- `[bussola_premiada_painel id="123"]` — o painel de transparência.
+- `[rit360_premiado_rifa id="123"]` — a campanha completa.
+- `[rit360_premiado_comprar id="123"]` — a seleção de cartões.
+- `[rit360_premiado_regulamento id="123"]` — o regulamento.
+- `[rit360_premiado_painel id="123"]` — o painel de transparência.
 
 ## Segurança e privacidade
 

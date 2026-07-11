@@ -1,7 +1,7 @@
-# Manual do usuário — Bússola Premiada
+# Manual do usuário — RIT360 Premiado
 
 Site Jekyll (tema [just-the-docs](https://just-the-docs.com/)) do manual público do
-**Bússola Premiada**, publicado em <https://docs.bussola-premiada.rit.org.br>.
+**RIT360 Premiado**, publicado em <https://docs.premiado.rit360.org.br>.
 
 ## Estrutura
 
@@ -20,7 +20,7 @@ Este diretório é a **fonte**. A publicação é feita a partir do repositório
 com:
 
 ```bash
-bin/publish-manual.sh          # espelha docs-publico/ -> RIT-DF/docs-bussola-premiada -> Pages
+bin/publish-manual.sh          # espelha manual/ -> RIT-DF/rit360-premiado-manual -> Pages
 bin/publish-manual.sh -n       # dry-run
 ```
 

@@ -7,7 +7,7 @@ last_verified: 2026-07-05
 status: publicado
 ---
 
-# Papéis no Bússola Premiada
+# Papéis no RIT360 Premiado
 
 O plugin é usado por pessoas diferentes, com responsabilidades diferentes. Saber em qual papel você está ajuda a achar rápido o que precisa — e mantém cada pessoa com o acesso certo, nem mais, nem menos. As permissões usam as *capabilities* do WordPress e toda mudança de permissão é registrada.
 

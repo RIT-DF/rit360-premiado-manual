@@ -12,7 +12,7 @@ status: publicado
 
 # Doação à RIT
 
-Um recurso **opcional** para apoiar a continuidade do Bússola Premiada, desenvolvido pela RIT.
+Um recurso **opcional** para apoiar a continuidade do RIT360 Premiado, desenvolvido pela RIT.
 
 ![Card de doação à RIT](/assets/screenshots/bp-23-doacao-rit.png)
 
@@ -26,4 +26,4 @@ O passo a passo está em [Apoiar a RIT](/guias/apoiar-a-rit/).
 
 > 💡 **Nota**
 >
-> O Bússola Premiada é software livre (GPL) e funciona integralmente com ou sem doação. A doação é um gesto voluntário de apoio, nunca uma condição de uso. Veja a [Licença](/legal/licenca/).
+> O RIT360 Premiado é software livre (GPL) e funciona integralmente com ou sem doação. A doação é um gesto voluntário de apoio, nunca uma condição de uso. Veja a [Licença](/legal/licenca/).

@@ -9,15 +9,15 @@ status: publicado
 
 # Política de Privacidade
 
-Esta política descreve como o **plugin Bússola Premiada** trata dados pessoais. Ela trata da **ferramenta**; a política que os participantes das suas campanhas leem é a que a **sua organização** publica no próprio site.
+Esta política descreve como o **plugin RIT360 Premiado** trata dados pessoais. Ela trata da **ferramenta**; a política que os participantes das suas campanhas leem é a que a **sua organização** publica no próprio site.
 
 > ⚠️ **Importante**
 >
-> Ao usar o Bússola Premiada, a **organização** atua como **controladora** dos dados pessoais dos participantes das suas campanhas, nos termos da **LGPD (Lei nº 13.709/2018)**. A RIT e a V3RTECH fornecem o software; não são controladoras dos dados tratados no site da organização.
+> Ao usar o RIT360 Premiado, a **organização** atua como **controladora** dos dados pessoais dos participantes das suas campanhas, nos termos da **LGPD (Lei nº 13.709/2018)**. A RIT e a V3RTECH fornecem o software; não são controladoras dos dados tratados no site da organização.
 
 ## Onde os dados ficam
 
-O Bússola Premiada roda **dentro do WordPress da própria organização**. Os dados das campanhas e dos participantes são armazenados no **banco de dados do site da organização**, sob o controle dela. O plugin não envia esses dados para servidores da RIT ou da V3RTECH.
+O RIT360 Premiado roda **dentro do WordPress da própria organização**. Os dados das campanhas e dos participantes são armazenados no **banco de dados do site da organização**, sob o controle dela. O plugin não envia esses dados para servidores da RIT ou da V3RTECH.
 
 ## Que dados o plugin trata
 
@@ -40,7 +40,7 @@ No curso normal de uma campanha, o plugin pode tratar:
 
 ## Direitos dos titulares
 
-Os direitos dos participantes (acesso, correção, eliminação etc.) são exercidos perante a **organização controladora**, conforme a política de privacidade que ela publica. A organização é responsável por atender a esses pedidos — o Bússola Premiada oferece os meios para localizar e exportar os dados quando necessário.
+Os direitos dos participantes (acesso, correção, eliminação etc.) são exercidos perante a **organização controladora**, conforme a política de privacidade que ela publica. A organização é responsável por atender a esses pedidos — o RIT360 Premiado oferece os meios para localizar e exportar os dados quando necessário.
 
 Na prática, o administrador usa as ferramentas nativas do WordPress em **Ferramentas → Exportar dados pessoais** e **Ferramentas → Apagar dados pessoais** (por e-mail). O plugin contribui com esses pedidos: **exporta** o consentimento de comunicações e a situação de contemplado e **apaga** o consentimento quando solicitado. Os **documentos pessoais do contemplado** (como cópia de identidade) são **mantidos** enquanto durar a obrigação legal de prestação de contas do sorteio (base legal — LGPD art. 16); a organização os remove manualmente quando essa obrigação não se aplicar mais. Os dados de compra são tratados pelo WooCommerce, que tem suas próprias ferramentas de exportação/eliminação.
 

@@ -14,7 +14,7 @@ status: publicado
 
 # Prestar contas
 
-Prestar contas é o que fecha o ciclo com transparência e protege a organização. O Bússola Premiada reúne os documentos, oferece um checklist e gera relatórios — tudo no mesmo lugar.
+Prestar contas é o que fecha o ciclo com transparência e protege a organização. O RIT360 Premiado reúne os documentos, oferece um checklist e gera relatórios — tudo no mesmo lugar.
 
 ## Onde fica
 

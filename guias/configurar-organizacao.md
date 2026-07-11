@@ -18,7 +18,7 @@ Os dados da sua organização são a **fonte única** que alimenta o regulamento
 
 ## Onde fica
 
-No menu **Bússola Premiada**, abra **Configurações**. A tela tem várias abas no topo.
+No menu **RIT360 Premiado**, abra **Configurações**. A tela tem várias abas no topo.
 
 ## Passo a passo
 

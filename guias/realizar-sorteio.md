@@ -14,7 +14,7 @@ status: publicado
 
 # Realizar o sorteio
 
-Chegou a data. O Bússola Premiada faz a apuração de forma **auditável** — de um jeito que qualquer pessoa possa confiar no resultado. Você escolhe entre três métodos.
+Chegou a data. O RIT360 Premiado faz a apuração de forma **auditável** — de um jeito que qualquer pessoa possa confiar no resultado. Você escolhe entre três métodos.
 
 ## Onde fica
 

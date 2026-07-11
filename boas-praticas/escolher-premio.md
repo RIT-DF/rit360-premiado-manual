@@ -39,7 +39,7 @@ O plugin permite **um ou vários prêmios** na mesma campanha (1º, 2º, 3º lug
 
 ## Boas fotos vendem
 
-O Bússola Premiada deixa você anexar **várias fotos do prêmio** e definir a principal. Use isso:
+O RIT360 Premiado deixa você anexar **várias fotos do prêmio** e definir a principal. Use isso:
 
 > ✅ **Boas práticas**
 >
