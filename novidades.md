@@ -15,6 +15,19 @@ O que há de novo no RIT360 Premiado, em linguagem simples. Cada item indica a *
 
 ---
 
+## Versão 2.1 — Envie feedback direto do painel
+
+Agora você fala com o suporte da RIT **sem sair do plugin**: o botão **💬 Feedback** no topo de todas as telas abre uma janela para enviar **problema, sugestão, elogio ou depoimento**.
+
+- **Anexe** prints ou arquivos (png, jpg, pdf, zip) para ilustrar.
+- Informe **seu e-mail** só se quiser retorno — é opcional.
+- No **depoimento**, dá para incluir nome, organização e cargo, e autorizar a publicação.
+- Apenas **dados técnicos do ambiente** acompanham a mensagem; **nenhum dado pessoal**.
+
+O passo a passo está em [Enviar feedback](/guias/enviar-feedback/).
+
+---
+
 ## Versão 1.13.0 — Loteria Federal para qualquer campanha
 
 Agora dá para apurar pela **Loteria Federal** também as campanhas de **lista temática** (cartões que são nomes, não números).
