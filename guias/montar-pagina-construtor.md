@@ -16,6 +16,8 @@ status: publicado
 
 Se você quer um layout próprio — diferente da página pública pronta —, pode montar a página da campanha no **editor de blocos (Gutenberg)** ou em construtores como o **Elementor**, combinando os componentes do RIT360 Premiado. Disponível a partir da versão **1.5.0**.
 
+> A partir da versão **2.4.0**, o menu **"Blocos e Shortcodes"** passou a se chamar **"Shortcodes e API"**. Os componentes deste guia continuam na aba **Shortcodes e Blocos**; a nova aba **API** trata de [integrações com outros sistemas](/guias/integrar-api-webhooks/).
+
 > Prefere algo pronto e rápido? A [página pública da campanha](/guias/personalizar-pagina-publica/) já entrega tudo em uma rolagem. Este guia é para quem quer **compor** a página do seu jeito.
 
 ## Antes de começar

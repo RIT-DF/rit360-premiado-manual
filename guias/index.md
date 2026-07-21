@@ -24,6 +24,7 @@ Passo a passo das tarefas mais comuns. Se você sabe **o que** quer fazer mas n�
 5. [Personalizar a página pública](/guias/personalizar-pagina-publica/)
 6. [Configurar os e-mails](/guias/configurar-emails/)
 7. [Montar a página no construtor](/guias/montar-pagina-construtor/)
+8. [Integrar com outros sistemas (API e webhooks)](/guias/integrar-api-webhooks/)
 
 ## Operar, sortear e fechar
 

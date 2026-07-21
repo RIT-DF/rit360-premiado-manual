@@ -15,6 +15,18 @@ O que há de novo no RIT360 Premiado, em linguagem simples. Cada item indica a *
 
 ---
 
+## Versão 2.4 — Conecte o plugin a outros sistemas (API e webhooks)
+
+Agora dá para integrar o RIT360 Premiado a ferramentas como **n8n**, **Zapier**, planilhas e painéis:
+
+- **API de leitura:** outros sistemas puxam dados das suas campanhas (vendas, cartões, resultado do sorteio, prestação de contas) usando uma **chave** que você gera.
+- **Webhooks:** o plugin avisa um endereço seu automaticamente quando algo acontece (venda confirmada, sorteio concluído, campanha aberta/encerrada).
+- **Privacidade em primeiro lugar:** por padrão, nada de dado pessoal cru — só números e dados mascarados. Para incluir nome/e-mail do comprador, há um escopo **opt-in** com aviso de responsabilidade (LGPD).
+
+O menu **"Blocos e Shortcodes"** virou **"Shortcodes e API"**, com uma aba nova para gerenciar tudo isso. Passo a passo em [Integrar com outros sistemas](/guias/integrar-api-webhooks/).
+
+---
+
 ## Versão 2.1 — Envie feedback direto do painel
 
 Agora você fala com o suporte da RIT **sem sair do plugin**: o botão **💬 Feedback** no topo de todas as telas abre uma janela para enviar **problema, sugestão, elogio ou depoimento**.
