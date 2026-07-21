@@ -16,6 +16,9 @@ status: publicado
 
 Com a organização configurada e (opcionalmente) os cartões planejados, é hora de criar a campanha. Ela é preenchida em um formulário de **três etapas**.
 
+> A partir da versão **2.4.0**, cada etapa traz uma **explicação com dicas e exemplos**, e os campos principais têm sugestões — é só seguir. Na última etapa você vê um **resumo** e os **próximos passos** antes de salvar.
+> ![Etapa com orientação e dicas](/assets/screenshots/campanha-etapas-orientacao.png)
+
 > 💡 Antes de começar, se ainda não fez a conta do prêmio, preço e quantidade, leia [Como planejar uma campanha que vende](/boas-praticas/campanha-vencedora/). Vale muito o tempo.
 
 ## Onde fica

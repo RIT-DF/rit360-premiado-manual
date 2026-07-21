@@ -25,7 +25,11 @@ Agora dá para integrar o RIT360 Premiado a ferramentas como **n8n**, **Zapier**
 
 O menu **"Blocos e Shortcodes"** virou **"Shortcodes e API"**, com uma aba nova para gerenciar tudo isso. Passo a passo em [Integrar com outros sistemas](/guias/integrar-api-webhooks/).
 
-**Também nesta versão:** o **regulamento** passou a exibir a **logo da organização** no topo (como já acontecia no relatório de prestação de contas e nos e-mails).
+**Também nesta versão:**
+
+- O **regulamento** passou a exibir a **logo da organização** no topo (como já acontecia no relatório de prestação de contas e nos e-mails).
+- As **redes sociais da organização** agora são uma **lista** (Instagram, Facebook, WhatsApp, YouTube…), cada uma com seu link — e podem **aparecer na página pública** da campanha, em ícones. Você escolhe a posição (rodapé, topo ou não exibir) em [Configurar a organização](/guias/configurar-organizacao/).
+- A **criação de campanha** ficou mais didática: cada etapa traz uma explicação com **dicas e exemplos**, os campos principais têm sugestões, e a última etapa mostra um **resumo** e os **próximos passos** antes de você salvar. Veja em [Criar a primeira campanha](/guias/criar-primeira-campanha/).
 
 ---
 

@@ -25,6 +25,8 @@ No menu **RIT360 Premiado**, abra **Configurações**. A tela tem várias abas n
 1. Abra **Configurações** e fique na aba **Configurações da Organização**.
    ![Aba Configurações da Organização](/assets/screenshots/bp-15-config-organizacao.png)
 2. Preencha os **dados institucionais**: razão social, CNPJ, endereço e e-mail. Razão social, CNPJ e e-mail são obrigatórios — o plugin valida o CNPJ (aceita o formato numérico e o novo alfanumérico da Receita Federal).
+   - **Redes sociais** (a partir da 2.4.0): em vez de um campo único, você monta uma **lista** — clique em **"+ Adicionar rede"**, escolha a rede (Instagram, Facebook, WhatsApp, YouTube…) e cole o link. No seletor **"Exibir as redes na página pública"**, escolha se elas aparecem no **rodapé**, no **topo** da página da campanha, ou **não exibir**.
+     ![Editor de redes sociais da organização](/assets/screenshots/redes-01-editor.png)
 3. Vá para a aba **Identidade visual** e envie a **logomarca** e o **favicon** pela Biblioteca de Mídia do WordPress. Ajuste as **cores da marca** — você pode escolher no seletor de cor ou digitar o valor hexadecimal (ex.: `#192444`). Essas cores personalizam a página pública das campanhas.
    ![Aba Identidade visual](/assets/screenshots/bp-16-config-identidade.png)
 4. Na aba **Configurações Globais da Campanha**, informe o **contato de dúvidas** (aparece no regulamento) e ajuste os **padrões de reserva de cartões** — o *Tempo de reserva do cartão* (por quantos minutos um cartão escolhido fica reservado até a compra ser concluída) e o *máximo de cartões por reserva*. Cada campanha pode sobrescrever esses padrões.
