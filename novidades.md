@@ -25,6 +25,8 @@ Agora dá para integrar o RIT360 Premiado a ferramentas como **n8n**, **Zapier**
 
 O menu **"Blocos e Shortcodes"** virou **"Shortcodes e API"**, com uma aba nova para gerenciar tudo isso. Passo a passo em [Integrar com outros sistemas](/guias/integrar-api-webhooks/).
 
+**Também nesta versão:** o **regulamento** passou a exibir a **logo da organização** no topo (como já acontecia no relatório de prestação de contas e nos e-mails).
+
 ---
 
 ## Versão 2.1 — Envie feedback direto do painel

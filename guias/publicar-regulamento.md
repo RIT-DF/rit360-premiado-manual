@@ -16,6 +16,8 @@ status: publicado
 
 O regulamento é **obrigatório**: nenhuma campanha entra no ar sem um regulamento publicado. A boa notícia é que o RIT360 Premiado monta a maior parte dele para você — a partir dos dados da organização, dos dados da campanha e de uma biblioteca de cláusulas prontas.
 
+> **A partir da versão 2.4.0**, o regulamento passa a exibir a **logo da organização** no topo (a mesma cadastrada em [Configurar a organização](/guias/configurar-organizacao/)). Se você já tem um regulamento publicado, ele mostra a logo ao ser **regerado/republicado**.
+
 ## Onde fica
 
 Abra a campanha e clique na aba de topo **Regulamento**.
