@@ -6,9 +6,9 @@ permalink: /guias/criar-primeira-campanha/
 task: criar-primeira-campanha
 role: admin
 routes: ["#/campanhas", "#/campanhas/nova"]
-screenshots: [bp-02-campanhas-lista, bp-03-campanha-nova-dados, bp-04-campanha-premio, bp-05-campanha-config]
-source_docs: [PRD_Bussola_Premiada.md#8.2, PRD_Bussola_Premiada.md#8.3]
-last_verified: 2026-07-05
+screenshots: [bp-02-campanhas-lista, bp-03-campanha-nova-dados, bp-04-campanha-premio, campanha-premio-midia-multipla, bp-05-campanha-config]
+source_docs: [PRD_Bussola_Premiada.md#8.2, PRD_Bussola_Premiada.md#8.3, "#137"]
+last_verified: 2026-07-22
 status: publicado
 ---
 
@@ -38,6 +38,14 @@ Nome da campanha, descrição curta, descrição completa e a **causa beneficiad
 Cada prêmio tem título, descrição, **custo do prêmio** (não aparece ao público; ajuda no cálculo do resultado líquido) e as **fotos do prêmio**. Você pode enviar **várias fotos** por prêmio e definir a **principal** — ela é a que aparece no compartilhamento.
 
 ![Etapa Dados do Prêmio](/assets/screenshots/bp-04-campanha-premio.png)
+
+### Adicionar várias fotos de uma vez
+
+Clique em **Adicionar foto(s)** para abrir a **Biblioteca de Mídia** do WordPress. A partir da versão **2.5.0**, você pode **selecionar várias imagens de uma só vez**: dê um **clique simples** em cada foto que quiser (sem precisar segurar Ctrl ou Shift) — cada uma marcada recebe o "check" azul — e clique em **Usar**. Todas as imagens selecionadas entram na galeria do prêmio de uma vez.
+
+![Selecionar várias fotos do prêmio na Biblioteca de Mídia](/assets/screenshots/campanha-premio-midia-multipla.png)
+
+A **primeira foto** da galeria é sempre a **principal** (marcada com a etiqueta *Principal*) — é ela que aparece no compartilhamento. Para trocar, passe o mouse sobre outra foto e clique em **Tornar principal**; para tirar uma foto, use **Remover**. Você pode clicar em **Adicionar foto(s)** quantas vezes quiser para incluir mais imagens.
 
 ### Um ou vários prêmios
 

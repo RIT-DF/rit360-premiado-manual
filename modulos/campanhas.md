@@ -6,7 +6,8 @@ permalink: /modulos/campanhas/
 role: admin
 routes: ["#/campanhas", "#/campanhas/nova", "#/campanhas/:id"]
 screenshots: [bp-02-campanhas-lista, bp-03-campanha-nova-dados, bp-05-campanha-config]
-last_verified: 2026-07-05
+source_docs: ["#136"]
+last_verified: 2026-07-22
 status: publicado
 ---
 
@@ -15,6 +16,21 @@ status: publicado
 É o coração do plugin. Aqui você cria, configura, publica e gerencia cada sorteio — do rascunho à conclusão.
 
 ![Lista de campanhas](/assets/screenshots/bp-02-campanhas-lista.png)
+
+## Ações da lista
+
+Na coluna à direita de cada campanha, as ações aparecem como **ícones**, cada um com uma **dica** (o texto surge ao passar o mouse):
+
+- **✏️ Editar** (lápis) — abre a campanha. Em campanhas que já não podem ser editadas, o ícone vira um **👁 olho (Ver)**, só para consulta.
+- **⧉ Duplicar** (cópia) — cria uma cópia da campanha (veja abaixo).
+- **🗑 Excluir** (lixeira) — aparece **apenas em rascunhos**. Apaga a campanha de vez, com **confirmação** antes (a ação não pode ser desfeita).
+- **🗄 Arquivar** (caixa) — aparece em **campanhas finalizadas** (vendas encerradas, concluídas ou canceladas). Ao confirmar, a campanha **sai da lista principal**.
+
+### Arquivar e reexibir
+
+Arquivar é a forma de **tirar da frente** as campanhas antigas sem perdê-las. Assim que existe alguma campanha arquivada, aparece no topo da lista o checkbox **"Mostrar arquivadas"** — marque-o para trazê-las de volta à visão.
+
+> 💡 **Excluir × Arquivar.** Use **Excluir** só para descartar um rascunho que não vai usar. Para campanhas que já rodaram, prefira **Arquivar**: elas somem da lista do dia a dia, mas continuam guardadas (com histórico e prestação de contas) e reaparecem quando você quiser.
 
 ## O formulário em abas
 

@@ -3,7 +3,7 @@ title: "Novidades"
 nav_order: 8
 permalink: /novidades/
 source_docs: [CHANGELOG.md]
-last_verified: 2026-07-05
+last_verified: 2026-07-22
 status: publicado
 ---
 
@@ -12,6 +12,15 @@ status: publicado
 O que há de novo no RIT360 Premiado, em linguagem simples. Cada item indica a **versão** do plugin em que a novidade chegou. Você vê a versão instalada no topo do painel, ao lado da logo (ex.: *RIT360 Premiado · v1.2.1*).
 
 > Esta é uma versão amigável do histórico técnico. O registro completo para desenvolvedores fica no `CHANGELOG.md` do projeto.
+
+---
+
+## Versão 2.5 — Lista de campanhas mais prática e fotos em lote
+
+Dois ajustes que agilizam o dia a dia de quem gerencia várias campanhas:
+
+- **Ações em ícones na lista de campanhas.** As ações de cada campanha viraram **ícones** com dica ao passar o mouse: **editar** (ou ver), **duplicar**, **excluir** e **arquivar**. Agora dá para **excluir campanhas em rascunho** (com confirmação) e **arquivar campanhas finalizadas** — elas saem da lista principal, e um checkbox **"Mostrar arquivadas"** as traz de volta quando você quiser. Veja em [Módulo Campanhas](/modulos/campanhas/).
+- **Várias fotos do prêmio de uma vez.** Ao adicionar fotos do prêmio, a Biblioteca de Mídia agora aceita **selecionar várias imagens com clique simples** (sem Ctrl/Shift) e adicionar todas de uma vez em **Usar**. A primeira continua sendo a **principal**. Veja em [Criar a primeira campanha](/guias/criar-primeira-campanha/).
 
 ---
 
