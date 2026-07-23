@@ -15,6 +15,20 @@ O que há de novo no RIT360 Premiado, em linguagem simples. Cada item indica a *
 
 ---
 
+## Versão 2.6 — Identidade visual da página pública, definida uma vez
+
+A aparência das páginas públicas de campanha ficou **guiada por temas** e muito mais fácil de manter consistente com a sua marca:
+
+- **Padrão da organização.** Uma aba nova, **Configurações → Identidade da página pública**, define como **todas** as campanhas nascem: o **tema** (galeria de 6 modelos — Sofisticado, Moderno, Clássico, Divertido, Emotivo, Simples — com **preview ao vivo já nas suas cores**), o **esquema de cores**, a **fonte** e as **seções** exibidas. Configure uma vez e não repita a cada campanha.
+- **Claro, Escuro e Automático.** Você escolhe o esquema de cores da página. No **Automático**, a página segue o **aparelho de quem visita** — modo escuro no celular, página escura; modo claro, página clara.
+- **Cores da marca na página inteira.** As cores da sua organização agora valem do topo ao rodapé (antes, só no topo), com o **contraste do texto garantido** para ficar sempre legível. A **logomarca aparece sempre sobre fundo branco**, para não sumir em nenhum esquema.
+- **Herdar ou personalizar por campanha.** Na aba **Página pública** da campanha, um botão escolhe entre **Usar o padrão da organização** (herda tudo) ou **Personalizar esta campanha** (tema, esquema, fonte e seções só para aquela rifa).
+- **Ligar e desligar seções.** Desmarcou uma seção, ela some da página. E seções sem conteúdo (um vídeo que você não cadastrou, por exemplo) são ocultadas sozinhas.
+
+Passo a passo em [Personalizar a página pública](/guias/personalizar-pagina-publica/) e [Configurar a organização](/guias/configurar-organizacao/).
+
+---
+
 ## Versão 2.5 — Lista de campanhas mais prática e fotos em lote
 
 Dois ajustes que agilizam o dia a dia de quem gerencia várias campanhas:

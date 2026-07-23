@@ -77,7 +77,7 @@ Depois de salvar o rascunho, complete o restante nas **abas de topo** da campanh
 
 - **Regulamento** — obrigatório para publicar. Veja [Publicar o regulamento](/guias/publicar-regulamento/).
 - **Dados legais** — número de autorização, processo, observações (opcional, mas recomendado).
-- **Página pública** — template visual, transparência e compartilhamento. Veja [Personalizar a página pública](/guias/personalizar-pagina-publica/).
+- **Página pública** — aparência (herdar o padrão da organização ou escolher tema/esquema/fonte), transparência e compartilhamento. Veja [Personalizar a página pública](/guias/personalizar-pagina-publica/).
 
 ## Publicar (abrir) a campanha
 

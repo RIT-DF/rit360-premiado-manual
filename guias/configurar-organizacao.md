@@ -7,8 +7,8 @@ task: configurar-organizacao
 role: admin
 routes: ["#/organizacao"]
 screenshots: [bp-15-config-organizacao, bp-16-config-identidade, bp-28-config-globais-campanha]
-source_docs: [PRD_Bussola_Premiada.md#8.1]
-last_verified: 2026-07-11
+source_docs: [PRD_Bussola_Premiada.md#8.1, CHANGELOG.md#2.6.0]
+last_verified: 2026-07-22
 status: publicado
 ---
 
@@ -27,8 +27,9 @@ No menu **RIT360 Premiado**, abra **Configurações**. A tela tem várias abas n
 2. Preencha os **dados institucionais**: razão social, CNPJ, endereço e e-mail. Razão social, CNPJ e e-mail são obrigatórios — o plugin valida o CNPJ (aceita o formato numérico e o novo alfanumérico da Receita Federal).
    - **Redes sociais** (a partir da 2.4.0): em vez de um campo único, você monta uma **lista** — clique em **"+ Adicionar rede"**, escolha a rede (Instagram, Facebook, WhatsApp, YouTube…) e cole o link. No seletor **"Exibir as redes na página pública"**, escolha se elas aparecem no **rodapé**, no **topo** da página da campanha, ou **não exibir**.
      ![Editor de redes sociais da organização](/assets/screenshots/redes-01-editor.png)
-3. Vá para a aba **Identidade visual** e envie a **logomarca** e o **favicon** pela Biblioteca de Mídia do WordPress. Ajuste as **cores da marca** — você pode escolher no seletor de cor ou digitar o valor hexadecimal (ex.: `#192444`). Essas cores personalizam a página pública das campanhas.
+3. Vá para a aba **Identidade visual** e envie a **logomarca** e o **favicon** pela Biblioteca de Mídia do WordPress. Ajuste as **cores da marca** — você pode escolher no seletor de cor ou digitar o valor hexadecimal (ex.: `#192444`). A partir da 2.6.0, essas cores valem na **página pública inteira** das campanhas (não só no topo).
    ![Aba Identidade visual](/assets/screenshots/bp-16-config-identidade.png)
+   - **Identidade da página pública** (aba própria, a partir da 2.6.0): define o **padrão** visual das páginas públicas de campanha — o **tema** (galeria de 6 modelos com preview ao vivo nas suas cores), o **esquema de cores** (Claro / Escuro / Automático), a **fonte** e as **seções** exibidas. Toda campanha nova nasce com esse padrão e pode herdá-lo ou personalizá-lo. O passo a passo está em [Personalizar a página pública](/guias/personalizar-pagina-publica/).
 4. Na aba **Configurações Globais da Campanha**, informe o **contato de dúvidas** (aparece no regulamento) e ajuste os **padrões de reserva de cartões** — o *Tempo de reserva do cartão* (por quantos minutos um cartão escolhido fica reservado até a compra ser concluída) e o *máximo de cartões por reserva*. Cada campanha pode sobrescrever esses padrões.
    ![Aba Configurações Globais da Campanha](/assets/screenshots/bp-28-config-globais-campanha.png)
 5. **Salve** cada aba. O salvamento é por aba, então confirme antes de trocar de seção.

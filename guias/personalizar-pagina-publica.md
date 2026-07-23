@@ -5,10 +5,10 @@ parent: "Guias por tarefa"
 permalink: /guias/personalizar-pagina-publica/
 task: personalizar-pagina-publica
 role: admin
-routes: ["#/campanhas/:id", "/campanha/:slug"]
-screenshots: [bp-10-pagina-publica-admin, bp-11-pagina-publica-site, bp-29-config-meta-video, bp-30-publica-termometro, bp-31-publica-video, bp-34-modelo-emotivo]
-source_docs: [PRD_Bussola_Premiada.md#8.7, PRD_Bussola_Premiada.md#8.8, PRD_Bussola_Premiada.md#8.9, CHANGELOG.md#1.9.0]
-last_verified: 2026-07-05
+routes: ["#/organizacao", "#/campanhas/:id", "/campanha/:slug"]
+screenshots: [tema-01-org-identidade, tema-02-campanha-padrao-personalizar, tema-03-publica-clara, tema-04-publica-escura, bp-29-config-meta-video, bp-30-publica-termometro, bp-31-publica-video]
+source_docs: [PRD_Bussola_Premiada.md#8.7, PRD_Bussola_Premiada.md#8.8, PRD_Bussola_Premiada.md#8.9, CHANGELOG.md#2.6.0]
+last_verified: 2026-07-22
 status: publicado
 ---
 
@@ -16,15 +16,71 @@ status: publicado
 
 Cada campanha ganha uma **página pública própria** (um hotsite), com endereço em `/campanha/nome-da-campanha`. É mobile-first, pronta para compartilhar e é onde as pessoas veem o prêmio, leem o regulamento, escolhem os cartões e compram.
 
-## Onde configura
+A partir da **versão 2.6.0**, a aparência dessa página é **guiada por temas** e funciona em **dois níveis**:
 
-Abra a campanha e clique na aba de topo **Página pública**.
+1. **O padrão da sua organização** — você define uma vez, em Configurações, e ele vale para **todas** as campanhas novas.
+2. **A personalização de cada campanha** — se uma rifa específica pedir um visual diferente, você sobrescreve o padrão só para ela.
 
-![Aba Página pública (admin)](/assets/screenshots/bp-10-pagina-publica-admin.png)
+Assim você configura a marca uma vez e não repete a cada campanha — mas continua livre para ajustar caso a caso.
 
-## O que dá para ajustar
+## 1. Definir o padrão da organização
 
-- **Template visual** — escolha entre **6 modelos** que transformam radicalmente o visual da página (não é só a cor): *Moderno* (conversão), *Sofisticado* (elegante, foto do prêmio no topo), *Clássico* (jornal, duas colunas), *Emotivo* (a causa em primeiro plano, com contagem regressiva), *Divertido* (colorido e leve) e *Simples* (direto ao ponto). O seletor mostra uma **miniatura** de cada modelo — clique nela para **ampliar**. **As cores da sua organização** (Identidade visual) são aplicadas automaticamente sobre o modelo escolhido, com o contraste do texto ajustado para ficar sempre legível.
+No menu **RIT360 Premiado → Configurações**, abra a aba **Identidade da página pública**. Aqui você escolhe como as páginas públicas vão nascer por padrão.
+
+![Aba Identidade da página pública (padrão da organização)](/assets/screenshots/tema-01-org-identidade.png)
+
+### Tema (a galeria de modelos)
+
+O **tema** define a composição e o estilo da página inteira — não é só a cor. Você escolhe entre **6 temas**, cada um com uma **miniatura de preview ao vivo já nas cores da sua organização**:
+
+- **Sofisticado** — elegante e institucional, transmite alto valor.
+- **Moderno** — limpo e digital, com foco em conversão.
+- **Clássico** — sóbrio e tradicional, com leitura de jornal.
+- **Divertido** — lúdico e acolhedor, com cor e energia.
+- **Emotivo** — foco na causa, nas histórias e no impacto.
+- **Simples** — direto ao ponto: prêmio, preço e comprar.
+
+Clique na miniatura do tema que combina com a sua campanha para selecioná-lo.
+
+> 💡 As **cores da sua organização** (primária, secundária e destaque, definidas na aba **Identidade visual**) agora valem na **página inteira** — não só no topo. Os previews da galeria já mostram como cada tema fica com as suas cores aplicadas, e o contraste do texto é ajustado automaticamente para ficar sempre legível.
+
+### Esquema de cores (claro / escuro / automático)
+
+O **esquema** controla o fundo geral da página:
+
+- **Claro** — fundo claro, texto escuro.
+- **Escuro** — fundo escuro, texto claro.
+- **Automático** — a página segue o **aparelho de quem visita**: quem está com o celular no modo escuro vê a versão escura; quem está no modo claro vê a clara. É a opção mais confortável para o público, porque respeita a preferência de cada pessoa.
+
+### Fonte
+
+A **tipografia** dá o tom do texto:
+
+- **Moderna** (sem serifa) — mais clean e atual.
+- **Clássica** (com serifa) — mais editorial e tradicional.
+- **Arredondada** — mais leve e amigável.
+
+### Seções exibidas por padrão
+
+Ligue ou desligue as seções que aparecem na página: **Topo (destaque)**, **Barra de progresso**, **A causa**, **Transparência**, **Redes sociais**, **Resultado do sorteio**, **Vitrine do prêmio**, **Resumo rápido**, **Vídeo**, **Regulamento**, **Compartilhar** e **Painel do comprador**.
+
+**Desligar uma seção faz ela sumir da página.** Além disso, seções **sem conteúdo** são ocultadas sozinhas — se você não cadastrou um vídeo, por exemplo, a seção de vídeo não aparece mesmo que esteja marcada.
+
+Ao terminar, clique em **Salvar identidade da página**. Pronto: toda campanha nova nasce com esse padrão.
+
+## 2. Personalizar uma campanha específica
+
+Abra a campanha e clique na aba de topo **Página pública**. Logo no início, em **Aparência da página**, você escolhe entre duas opções:
+
+![Aparência da página na campanha: usar o padrão ou personalizar](/assets/screenshots/tema-02-campanha-padrao-personalizar.png)
+
+- **Usar o padrão da organização** — a campanha **herda tudo** o que você definiu em Configurações (tema, esquema, fonte e seções). É o recomendado na maioria dos casos: mude o padrão uma vez e todas as campanhas acompanham.
+- **Personalizar esta campanha** — abre os mesmos controles (galeria de temas, esquema, fonte e seções), mas as escolhas valem **só para aquela rifa**. Use quando uma campanha específica precisa de um visual próprio, sem mexer no padrão das demais.
+
+O restante da aba (transparência, meta/termômetro, vídeo, compartilhamento) continua sempre disponível, independentemente da opção escolhida.
+
+## O que mais dá para ajustar nesta aba
+
 - **Painel de transparência** — escolha quais indicadores mostrar (total arrecadado, cartões vendidos, cartões restantes…). O financeiro fica **oculto por padrão** — ative só o que quiser expor.
 - **Meta da campanha (termômetro)** — defina uma meta de **cartões** e/ou de **arrecadação (R$)** e a página mostra um termômetro com o progresso e um aviso quando a meta é atingida (veja abaixo).
 - **Vídeo de divulgação** — cole um link do **YouTube** ou do **Vimeo** e o vídeo aparece embutido na página (veja abaixo).
@@ -51,15 +107,17 @@ Na seção **Vídeo de divulgação**, cole o endereço do vídeo (ex.: `https:/
 
 ![Vídeo embutido na página pública](/assets/screenshots/bp-31-publica-video.png)
 
-Exemplo do modelo *Emotivo* com as cores de uma organização aplicadas (hero com a foto do prêmio, contagem regressiva e a causa em destaque):
-
-![Modelo Emotivo com as cores da organização](/assets/screenshots/bp-34-modelo-emotivo.png)
-
 ## Como fica para o público
 
-A página reúne, em uma rolagem: o prêmio com as fotos, a história da causa, o progresso das vendas, a seleção de cartões, o regulamento e os botões de compartilhar.
+A página reúne, em uma rolagem: o prêmio com as fotos, a história da causa, o progresso das vendas, a seleção de cartões, o regulamento e os botões de compartilhar. As **cores da sua organização** valem do topo ao rodapé, e a **logomarca aparece sempre sobre um fundo branco**, para se manter nítida tanto no esquema claro quanto no escuro.
 
-![Página pública da campanha](/assets/screenshots/bp-11-pagina-publica-site.png)
+**Esquema claro:**
+
+![Página pública no esquema claro](/assets/screenshots/tema-03-publica-clara.png)
+
+**Esquema escuro** (mesma campanha, mesmas cores — só muda o fundo):
+
+![Página pública no esquema escuro](/assets/screenshots/tema-04-publica-escura.png)
 
 ## Compra: como o participante age
 
@@ -78,4 +136,4 @@ A página reúne, em uma rolagem: o prêmio com as fotos, a história da causa, 
 
 > ✅ **Boas práticas**
 >
-> Abra a página pública no **celular** antes de divulgar — a maioria dos seus compradores vai acessá-la assim. Confira se a foto do prêmio, o preço e o botão de comprar estão claros na primeira tela.
+> Abra a página pública no **celular** antes de divulgar — a maioria dos seus compradores vai acessá-la assim. Confira se a foto do prêmio, o preço e o botão de comprar estão claros na primeira tela. Se usar o esquema **Automático**, vale testar com o aparelho no modo claro e no modo escuro.

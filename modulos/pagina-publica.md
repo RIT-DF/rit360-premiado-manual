@@ -4,9 +4,9 @@ nav_order: 5
 parent: "Módulos"
 permalink: /modulos/pagina-publica/
 role: admin
-routes: ["#/campanhas/:id", "/campanha/:slug"]
-screenshots: [bp-10-pagina-publica-admin, bp-11-pagina-publica-site]
-last_verified: 2026-07-05
+routes: ["#/organizacao", "#/campanhas/:id", "/campanha/:slug"]
+screenshots: [bp-10-pagina-publica-admin, bp-11-pagina-publica-site, tema-01-org-identidade]
+last_verified: 2026-07-22
 status: publicado
 ---
 
@@ -26,11 +26,17 @@ Cada campanha tem um **hotsite próprio**, mobile-first, no endereço `/campanha
 - A **barra de compartilhamento** (WhatsApp, Facebook, X, LinkedIn, copiar link).
 - O **resultado** do sorteio, quando a campanha é apurada — com um ganhador por prêmio, sempre mascarado por padrão.
 
-## Configuração
+## Configuração (guiada por temas)
 
-Na aba **Página pública** da campanha você escolhe o **template visual** (Sofisticado, Moderno, Clássico, Divertido, Emotivo), os indicadores de **transparência** e as opções de **compartilhamento/Open Graph**.
+A aparência é **guiada por temas** e definida em dois níveis:
 
-![Aba Página pública no admin](/assets/screenshots/bp-10-pagina-publica-admin.png)
+- **Padrão da organização** — em **Configurações → Identidade da página pública**, você escolhe o **tema** (Sofisticado, Moderno, Clássico, Divertido, Emotivo, Simples), o **esquema de cores** (Claro / Escuro / Automático), a **fonte** e as **seções** que aparecem por padrão. As **cores da organização** valem na página inteira.
+
+  ![Aba Identidade da página pública](/assets/screenshots/tema-01-org-identidade.png)
+
+- **Por campanha** — na aba **Página pública** da campanha, você escolhe **Usar o padrão da organização** (herda tudo) ou **Personalizar esta campanha** (tema/esquema/fonte/seções só para aquela rifa). Aqui também ficam os indicadores de **transparência**, a **meta/termômetro**, o **vídeo** e o **compartilhamento/Open Graph**.
+
+  ![Aba Página pública no admin](/assets/screenshots/bp-10-pagina-publica-admin.png)
 
 ## Shortcodes para page builders
 
