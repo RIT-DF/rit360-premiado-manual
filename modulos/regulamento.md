@@ -5,24 +5,26 @@ parent: "Módulos"
 permalink: /modulos/regulamento/
 role: admin
 routes: ["#/campanhas/:id"]
-screenshots: [bp-08-regulamento]
-last_verified: 2026-07-05
+screenshots: [reg-assistente-etapas]
+last_verified: 2026-07-22
 status: publicado
 ---
 
 # Regulamento
 
-O regulamento é o documento que define as regras da campanha — e é **obrigatório**: nenhuma campanha abre sem um regulamento publicado. O módulo monta a maior parte do texto para você.
+O regulamento é o documento que define as regras da campanha — e é **obrigatório**: nenhuma campanha abre sem um regulamento publicado. O módulo monta a maior parte do texto para você, num **assistente guiado em etapas**.
 
-![Aba Regulamento](/assets/screenshots/bp-08-regulamento.png)
+![Assistente de regulamento em etapas](/assets/screenshots/reg-assistente-etapas.png)
 
-## Semi-automático
+## Semi-automático, em etapas
 
-O regulamento combina três fontes:
+O assistente tem quatro etapas: **Dados da campanha** (automáticos), **Cláusulas essenciais**, **Outras cláusulas** e **Revisão**. O texto combina:
 
 1. **Dados automáticos** da organização e da campanha (nome, CNPJ, prêmio, datas, quantidade, valor).
-2. **Campos variáveis** que você preenche.
-3. **Biblioteca de cláusulas** selecionáveis por categoria, mais texto livre. A biblioteca é editável em **Configurações → Banco de Cláusulas de Regulamento**.
+2. **Campos essenciais** que você preenche — com **“Inserir da biblioteca”** para trazer um texto-modelo pronto e editá-lo.
+3. **Outras cláusulas** — cláusulas gerais (LGPD, foro…) e texto livre, em cartões que você adiciona, edita, reordena e remove. A biblioteca é editável em **Configurações → Banco de Cláusulas de Regulamento**, onde cada cláusula tem um **campo sugerido**.
+
+Ao inserir uma cláusula da biblioteca, o texto é **copiado e congelado** na campanha: mudar a biblioteca depois não altera regulamentos já montados.
 
 ## Versionado e carimbado
 

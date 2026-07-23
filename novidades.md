@@ -15,6 +15,20 @@ O que há de novo no RIT360 Premiado, em linguagem simples. Cada item indica a *
 
 ---
 
+## Versão 2.7 — Assistente de regulamento, de verdade
+
+Montar o regulamento ficou um **passo a passo guiado**, e agora dá para **aproveitar as cláusulas prontas de verdade**:
+
+- **Quatro etapas com barra de progresso.** *Dados da campanha* (entram sozinhos, você só confere) → *Cláusulas essenciais* → *Outras cláusulas* → *Revisão e publicação*. Dá para pular para qualquer etapa a qualquer momento.
+- **“Inserir da biblioteca” — direto no campo.** Antes, as cláusulas da biblioteca eram só marcadas numa lista e você não conseguia editá-las. Agora, em cada campo há o botão **“+ Inserir da biblioteca”**: escolheu a cláusula, o **texto entra no campo pronto para você editar**.
+- **Outras cláusulas em cartões.** Cláusulas gerais (LGPD, foro, destinação à causa…) e texto livre viram **cartões** que você adiciona, edita, **reordena** e remove — inclusive começando de um modelo da biblioteca ou de uma **cláusula em branco**.
+- **Cada cláusula sabe onde entrar.** No **Banco de Cláusulas de Regulamento**, cada cláusula tem um **campo sugerido**, então “Inserir da biblioteca” já mostra as cláusulas certas para cada seção.
+- **Texto que não muda pelas suas costas.** Ao inserir uma cláusula, o texto é **copiado e congelado** naquela campanha: mexer na biblioteca depois **não altera** os regulamentos já montados.
+
+Passo a passo em [Publicar o regulamento](/guias/publicar-regulamento/).
+
+---
+
 ## Versão 2.6 — Identidade visual da página pública, definida uma vez
 
 A aparência das páginas públicas de campanha ficou **guiada por temas** e muito mais fácil de manter consistente com a sua marca:
