@@ -33,7 +33,7 @@ Você as encontra na seção **Templates**.
 
 ## Criar sua própria lista
 
-1. Abra **Templates** no menu.
+1. Abra a aba **Templates** na barra de abas do plugin.
 2. Crie um novo template do tipo **Lista** e informe os nomes — ou **importe um CSV** (o plugin remove duplicados e espaços em excesso automaticamente).
 3. Salve. A lista fica disponível para qualquer campanha.
 

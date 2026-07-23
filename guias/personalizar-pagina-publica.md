@@ -6,9 +6,9 @@ permalink: /guias/personalizar-pagina-publica/
 task: personalizar-pagina-publica
 role: admin
 routes: ["#/organizacao", "#/campanhas/:id", "/campanha/:slug"]
-screenshots: [tema-01-org-identidade, tema-02-campanha-padrao-personalizar, tema-03-publica-clara, tema-04-publica-escura, bp-29-config-meta-video, bp-30-publica-termometro, bp-31-publica-video]
+screenshots: [tema-01-org-identidade, tema-02-campanha-padrao-personalizar, publica-hero-modos, tema-03-publica-clara, tema-04-publica-escura, bp-29-config-meta-video, bp-30-publica-termometro, bp-31-publica-video]
 source_docs: [PRD_Bussola_Premiada.md#8.7, PRD_Bussola_Premiada.md#8.8, PRD_Bussola_Premiada.md#8.9, CHANGELOG.md#2.6.0]
-last_verified: 2026-07-22
+last_verified: 2026-07-23
 status: publicado
 ---
 
@@ -77,7 +77,27 @@ Abra a campanha e clique na aba de topo **Página pública**. Logo no início, e
 - **Usar o padrão da organização** — a campanha **herda tudo** o que você definiu em Configurações (tema, esquema, fonte e seções). É o recomendado na maioria dos casos: mude o padrão uma vez e todas as campanhas acompanham.
 - **Personalizar esta campanha** — abre os mesmos controles (galeria de temas, esquema, fonte e seções), mas as escolhas valem **só para aquela rifa**. Use quando uma campanha específica precisa de um visual próprio, sem mexer no padrão das demais.
 
-O restante da aba (transparência, meta/termômetro, vídeo, compartilhamento) continua sempre disponível, independentemente da opção escolhida.
+O restante da aba (topo/hero, transparência, meta/termômetro, vídeo, compartilhamento) continua sempre disponível, independentemente da opção escolhida.
+
+### Posição da logo e da causa
+
+Ainda em **Aparência da página**, dois seletores controlam **onde** dois elementos-chave aparecem:
+
+- **Logomarca da organização** — escolha entre **Padrão (topo)**, **No topo (hero)**, **No rodapé**, **Topo e rodapé** ou **Não exibir**. Útil quando a arte do topo já traz a marca e você não quer repeti-la.
+- **Destaque da causa (“Em prol”)** — **Destaque no topo** (um card chamando a atenção para a causa logo no começo) ou **Não exibir card da causa**.
+
+### Topo da página (hero)
+
+O **hero** é a primeira faixa da página — o "cartaz" da campanha. No card **Topo da página (hero)** você escolhe o **modo**:
+
+- **Automático** — usa imagem + texto se houver uma imagem de hero; senão, mostra só o texto.
+- **Só imagem (arte inteira, sem cortar)** — ideal quando você tem um cartaz pronto e quer que ele apareça inteiro, sem cortes.
+- **Imagem + texto (título sobre a imagem)** — a imagem vira fundo e o título da campanha fica por cima.
+- **Só texto** — sem imagem no topo, foco no título e na chamada.
+
+> A **imagem do hero é separada das fotos do prêmio**: use o botão **Selecionar imagem** para enviar uma arte dedicada ao topo. Sem imagem, o modo cai automaticamente para "Só texto".
+
+![Card Topo da página (hero), com os modos de exibição](/assets/screenshots/publica-hero-modos.png)
 
 ## O que mais dá para ajustar nesta aba
 

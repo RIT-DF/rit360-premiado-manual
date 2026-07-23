@@ -6,9 +6,9 @@ permalink: /guias/publicar-regulamento/
 task: publicar-regulamento
 role: admin
 routes: ["#/campanhas/:id"]
-screenshots: [reg-assistente-etapas, reg-outras-clausulas, reg-banco-clausulas-target, bp-09-dados-legais]
+screenshots: [reg-assistente-etapas, reg-outras-clausulas, reg-ordenar-clausulas, reg-banco-clausulas-target, bp-09-dados-legais]
 source_docs: [PRD_Bussola_Premiada.md#8.10, PRD_Bussola_Premiada.md#8.11]
-last_verified: 2026-07-22
+last_verified: 2026-07-23
 status: publicado
 ---
 
@@ -20,25 +20,29 @@ O regulamento é **obrigatório**: nenhuma campanha entra no ar sem um regulamen
 
 ## Onde fica
 
-Abra a campanha e clique na aba de topo **Regulamento**. No topo há uma **barra de progresso** com as quatro etapas do assistente.
+Abra a campanha e clique na aba de topo **Regulamento**. No topo há uma **barra de progresso** com as cinco etapas do assistente.
 
 ![Assistente de regulamento em etapas](/assets/screenshots/reg-assistente-etapas.png)
 
-## As quatro etapas
+## As cinco etapas
 
 1. **Dados da campanha** — dados da organização e da campanha (nome, CNPJ, prêmio, datas, quantidade, valor) entram **sozinhos**; você só confere. Ajuste-os, se preciso, na campanha e em **Organização**.
 2. **Cláusulas essenciais** — as seções principais (critérios de participação, política de entrega etc.). Em cada campo há o botão **“+ Inserir da biblioteca”**: clique para trazer um **texto-modelo pronto** e então edite à vontade. Os campos com **\*** são obrigatórios.
-3. **Outras cláusulas** — cláusulas gerais (LGPD, foro, destinação à causa…) e qualquer texto livre, em forma de **cartões** que você adiciona, edita, reordena e remove. Use **“+ Inserir da biblioteca”** para começar de um modelo, ou **“+ Cláusula em branco”** para escrever do zero.
-4. **Revisão** — pré-visualização fiel ao que o público verá + o botão **Publicar**.
+3. **Outras cláusulas** — cláusulas gerais (LGPD, foro, destinação à causa…) e qualquer texto livre, em forma de **cartões** que você adiciona, edita e remove. Use **“+ Inserir da biblioteca”** para começar de um modelo, ou **“+ Cláusula em branco”** para escrever do zero.
+4. **Ordenar cláusulas** — defina a **sequência** em que as cláusulas aparecem no documento final. Aqui as **essenciais e as outras aparecem juntas, numa lista só**, e você as reordena com as setas **↑ ↓**. As cláusulas de **Objeto** e **Apuração** ficam fixas no início.
+5. **Revisão** — pré-visualização fiel ao que o público verá + o botão **Publicar**.
 
 ![Etapa Outras cláusulas, com cartões editáveis](/assets/screenshots/reg-outras-clausulas.png)
 
 ## Passo a passo
 
 1. Na etapa **Cláusulas essenciais**, preencha cada seção. Para ir mais rápido, clique em **“+ Inserir da biblioteca”** no campo e escolha uma cláusula-modelo — o texto entra no campo **pronto para editar**.
-2. Em **Outras cláusulas**, adicione as cláusulas gerais que se aplicam (também via “Inserir da biblioteca”) e ajuste os cartões: **reordene** com as setas, **remova** o que não usar.
-3. Na etapa **Revisão**, use a **pré-visualização** para conferir o texto final. Clique em **Salvar rascunho** quando quiser continuar depois.
-4. Clique em **Publicar regulamento** e confirme.
+2. Em **Outras cláusulas**, adicione as cláusulas gerais que se aplicam (também via “Inserir da biblioteca”) e **remova** o que não usar.
+3. Na etapa **Ordenar cláusulas**, arraste a ordem com as setas **↑ ↓** até o documento ficar na sequência que você quer. Essenciais e outras cláusulas são ordenadas na mesma lista.
+
+   ![Etapa Ordenar cláusulas, com essenciais e outras na mesma lista](/assets/screenshots/reg-ordenar-clausulas.png)
+4. Na etapa **Revisão**, use a **pré-visualização** para conferir o texto final. Clique em **Salvar rascunho** quando quiser continuar depois.
+5. Clique em **Publicar regulamento** e confirme.
 
 > 💡 **Como as cláusulas sabem onde entrar**
 >

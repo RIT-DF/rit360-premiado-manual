@@ -17,7 +17,7 @@ Além da página pública pronta (o hotsite da campanha), você pode **montar a 
 
 ## Onde encontrar a referência
 
-No menu **RIT360 Premiado**, abra **Blocos e Shortcodes**. Essa página lista cada componente com o nome do bloco, o shortcode e um exemplo pronto para copiar.
+Na barra de abas do **RIT360 Premiado**, abra **Shortcodes e API** (na sub-aba **Shortcodes e Blocos**). Essa tela lista cada componente com o nome do bloco, o shortcode e um exemplo pronto para copiar.
 
 ![Página Blocos e Shortcodes no admin](/assets/screenshots/bp-25-blocos-referencia.png)
 

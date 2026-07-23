@@ -6,9 +6,9 @@ permalink: /guias/painel-meus-cartoes/
 task: painel-meus-cartoes
 role: admin
 routes: ["/meus-cartoes", "#/blocos"]
-screenshots: [bp-36-meus-cartoes-painel, bp-37-meus-cartoes-painel-mobile, bp-38-meus-cartoes-formulario]
+screenshots: [bp-36-meus-cartoes-painel, bp-37-meus-cartoes-painel-mobile, bp-38-meus-cartoes-formulario, publica-consulte-numeros]
 source_docs: [CHANGELOG.md#1.11.0, ARCHITECTURE.md#adr-014]
-last_verified: 2026-07-05
+last_verified: 2026-07-23
 status: publicado
 ---
 
@@ -21,11 +21,17 @@ O **"Meus cartões"** é uma página para o **participante** consultar, **sem pr
 Há dois caminhos, e os dois dispensam senha:
 
 - **Pelo link no e-mail.** Todo e-mail de **confirmação de compra** passa a trazer um link *"meus cartões"*. É um link pessoal e seguro (não é adivinhável) que abre direto o painel do comprador.
-- **Pelo formulário "Receber o link por e-mail".** Se a pessoa não tem o e-mail à mão, ela abre a página, digita o e-mail usado na compra e clica em **Enviar link**. O sistema reenvia o link de acesso para aquele endereço.
+- **Pelo formulário "Receber o link por e-mail".** Se a pessoa não tem o e-mail à mão, ela abre a página, informa o **e-mail usado na compra** ou o **número do pedido** e clica em **Enviar link**. O sistema envia o link de acesso para o e-mail daquela compra.
 
   ![Formulário para receber o link por e-mail](/assets/screenshots/bp-38-meus-cartoes-formulario.png)
 
-> Por segurança e privacidade, a resposta do formulário é **sempre a mesma** ("Se houver compras nesse e-mail, enviamos o link…"), independentemente de o e-mail existir ou não — assim ninguém consegue descobrir quem comprou testando endereços.
+> Por segurança e privacidade, a resposta do formulário é **sempre a mesma** ("Se houver compras nesse e-mail, enviamos o link…"), independentemente de o e-mail ou o pedido existir ou não — assim ninguém consegue descobrir quem comprou testando endereços.
+
+### "Consulte seus números" na própria página da campanha
+
+A mesma consulta aparece **embutida na página pública da campanha**, na seção **"Consulte seus números"** — quem já participou informa o **e-mail** ou o **número do pedido** ali mesmo, sem sair da página, e recebe o link por e-mail. Essa seção pode ser ligada ou desligada em [Personalizar a página pública](/guias/personalizar-pagina-publica/) (item **Painel do comprador**).
+
+![Seção "Consulte seus números" na página pública da campanha](/assets/screenshots/publica-consulte-numeros.png)
 
 ## O que o comprador vê
 
