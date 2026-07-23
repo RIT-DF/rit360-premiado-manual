@@ -76,7 +76,7 @@ O botão de salvar fica sempre visível. Se algum campo obrigatório faltar, o f
 Depois de salvar o rascunho, complete o restante nas **abas de topo** da campanha:
 
 - **Regulamento** — obrigatório para publicar. Veja [Publicar o regulamento](/guias/publicar-regulamento/).
-- **Dados legais** — número de autorização, processo, observações (opcional, mas recomendado).
+- **Dados legais** — número de autorização, processo, observações (opcional, mas recomendado). O campo **Observações jurídicas** tem um **editor de texto rico** (negrito, listas, links).
 - **Página pública** — aparência (herdar o padrão da organização ou escolher tema/esquema/fonte), transparência e compartilhamento. Veja [Personalizar a página pública](/guias/personalizar-pagina-publica/).
 
 ## Publicar (abrir) a campanha

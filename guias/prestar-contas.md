@@ -35,6 +35,10 @@ O plugin oferece um **checklist** dos documentos recomendados: ata de apuração
 
 Registre observações, número de autorização/processo e avance o **status** da campanha até **concluída**. O avanço de status dispara os e-mails administrativos correspondentes.
 
+> **Novo (v2.8):** o campo **Observações finais** — e também **Observações jurídicas** (aba Dados legais) — passou a ter um **editor de texto rico** (negrito, itálico, listas, links), com abas *Visual* e *Texto*. Use a barra de ferramentas para formatar; o conteúdo é salvo com a formatação.
+>
+> ![Editor de texto rico nas observações](/assets/screenshots/editor-obs-juridicas.png)
+
 ## Relatórios
 
 Você pode exportar o relatório completo da campanha em **CSV, PDF ou JSON**. O relatório reúne dados da campanha, da organização, dos cartões, do financeiro, da apuração e dos compradores.

@@ -15,6 +15,18 @@ O que há de novo no RIT360 Premiado, em linguagem simples. Cada item indica a *
 
 ---
 
+## Versão 2.9 — Navegação por abas, mais direta
+
+O painel do RIT360 Premiado ficou **mais fácil de navegar**. Em vez de vários submenus espalhados no menu lateral do WordPress, agora há **uma entrada única** ("RIT360 Premiado") e você troca de seção por uma **barra de abas** dentro da própria tela — Painel, Campanhas, Templates, Auditoria, Configurações e Shortcodes e API. Cada pessoa vê só as abas que pode acessar, e links antigos que você tenha salvo continuam funcionando.
+
+---
+
+## Versão 2.8 — Texto formatado nas observações
+
+Dois campos de texto ganharam um **editor com formatação** (como um mini editor de texto): **Observações jurídicas** (aba Dados legais) e **Observações finais** (aba Prestação de contas). Agora dá para usar **negrito, itálico, listas e links**, e alternar entre os modos **Visual** e **Texto**. O que você formatar é salvo e, no caso das observações jurídicas exibidas na página pública, aparece formatado para o visitante.
+
+---
+
 ## Versão 2.7 — Assistente de regulamento, de verdade
 
 Montar o regulamento ficou um **passo a passo guiado**, e agora dá para **aproveitar as cláusulas prontas de verdade**:

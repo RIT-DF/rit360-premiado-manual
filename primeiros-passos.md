@@ -41,9 +41,13 @@ Você precisa de:
 
 ## Passo 1 — Abra o painel
 
-No menu lateral do WordPress, clique em **RIT360 Premiado**. Você chega ao **Painel**, o cockpit da ferramenta: um resumo das campanhas, da arrecadação e dos próximos sorteios.
+No menu lateral do WordPress, clique em **RIT360 Premiado** (uma entrada única). Você chega ao **Painel**, o cockpit da ferramenta: um resumo das campanhas, da arrecadação e dos próximos sorteios.
 
 ![Painel do RIT360 Premiado](/assets/screenshots/bp-01-dashboard.png)
+
+> **A partir da versão 2.9**, a navegação entre as seções (Painel, Campanhas, Templates, Auditoria, Configurações, Shortcodes e API) fica numa **barra de abas** dentro da própria tela do plugin, logo abaixo do cabeçalho — não mais em submenus do WordPress. Cada usuário vê só as abas que pode acessar.
+>
+> ![Barra de abas de navegação](/assets/screenshots/admin-abas-navegacao.png)
 
 No topo, ao lado da logo, aparece o nome da seção em que você está e a versão do plugin. O botão **📖 Manual / Guia** leva sempre a esta documentação.
 
