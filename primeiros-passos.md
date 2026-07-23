@@ -4,9 +4,9 @@ nav_order: 2
 permalink: /primeiros-passos/
 role: admin
 routes: ["#/", "#/organizacao", "#/campanhas"]
-screenshots: [bp-01-dashboard]
+screenshots: [bp-01-dashboard, admin-abas-navegacao]
 source_docs: [PRODUCT.md, PRD_Bussola_Premiada.md]
-last_verified: 2026-07-05
+last_verified: 2026-07-23
 status: publicado
 ---
 
